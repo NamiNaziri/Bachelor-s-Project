@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.23)  23 APR 2022 13:34
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.23)  21 MAY 2022 18:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -831,6 +831,11 @@ LaTeX Font Info:    No file TUptm.fd. on input line 1559.
 LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
 (Font)              using `TU/lmr/m/n' instead on input line 1559.
 
+) (g:/texlive/2022/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen260
+\c@nlinenum=\count374
+\TeXr@lab=\toks49
 )
 
 Package fontspec Info: Font family 'BZar(0)' created for font 'B Zar' with
@@ -962,7 +967,7 @@ Package fontspec Info: Font family 'TimesNewRoman(1)' created for font 'Times
 (fontspec)             <->s*[1]"Times New
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
-\c@mv@lm=\count374
+\c@mv@lm=\count375
 
 Package fontspec Info: Could not resolve font "Latin Modern Math/B" (it
 (fontspec)             probably doesn't exist).
@@ -1117,11 +1122,11 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 138.
 Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 138.
 
-\c@theorem=\count375
-\c@remark=\count376
-\c@reminder=\count377
-\c@RowNoFa=\count378
-\c@RowNoEn=\count379
+\c@theorem=\count376
+\c@remark=\count377
+\c@reminder=\count378
+\c@RowNoFa=\count379
+\c@RowNoEn=\count380
 ) (./IUT-Thesis.aux)
 \openout1 = `IUT-Thesis.aux'.
 
@@ -1207,7 +1212,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (g:/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count380
+\c@section@level=\count381
 )
 LaTeX Info: Redefining \ref on input line 62.
 LaTeX Info: Redefining \pageref on input line 62.
@@ -1346,46 +1351,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.80008> not available
 
 
 
-] (./Chapters/Acknowledgments.tex
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: xetex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(85.35826pt, 398.3386pt, 113.81102pt)
-* v-part:(T,H,B)=(199.16928pt, 544.47092pt, 101.40665pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=398.3386pt
-* \textheight=544.47092pt
-* \oddsidemargin=13.08827pt
-* \evensidemargin=13.08827pt
-* \topmargin=86.44655pt
-* \headheight=12.0pt
-* \headsep=28.45274pt
-* \topskip=10.0pt
-* \footskip=25.29494pt
-* \marginparwidth=61.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-LaTeX Font Info:    Font shape `TU/BZar(1)/m/n' will be
-(Font)              scaled to size 20.0pt on input line 6.
- [5
-
-
-
-])
+]
 Underfull \hbox (badness 1107) in paragraph at lines 107--107
 []\TU/BZar(1)/b/n/14 است. این حقوق توسط دانشگاه صنعتي اصفهان[]
  []
@@ -1408,59 +1374,10 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 107.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 107.
-(./Chapters/Dedication.tex [6
+[5
 
 
 ]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: xetex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(85.35826pt, 398.3386pt, 113.81102pt)
-* v-part:(T,H,B)=(199.16928pt, 544.47092pt, 101.40665pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=398.3386pt
-* \textheight=544.47092pt
-* \oddsidemargin=13.08827pt
-* \evensidemargin=13.08827pt
-* \topmargin=86.44655pt
-* \headheight=12.0pt
-* \headsep=28.45274pt
-* \topskip=10.0pt
-* \footskip=25.29494pt
-* \marginparwidth=61.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-LaTeX Font Info:    Font shape `TU/BZar(1)/m/n' will be
-(Font)              scaled to size 28.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/BZar(1)/b/n' will be
-(Font)              scaled to size 28.0pt on input line 12.
-
-
-LaTeX Font Warning: Font shape `TU/IranNastaliq(0)/b/n' undefined
-(Font)              using `TU/IranNastaliq(0)/m/n' instead on input line 12.
-
-LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
-(Font)              scaled to size 28.0pt on input line 12.
-LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/b/n' will be
-(Font)              scaled to size 54.0pt on input line 12.
-[7
-
-
-])
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1500,14 +1417,47 @@ LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
  (./IUT-Thesis.toc
 LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
 (Font)              scaled to size 13.00003pt on input line 1.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 9.00096pt on input line 8.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 8.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 8.99904pt on input line 8.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 8.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 11.70003pt on input line 8.
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 8.45001pt on input line 8.
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 10.40002pt on input line 8.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 12.
+(Font)              scaled to size 9.59998pt on input line 8.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 8.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 8.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 8.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 8.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 8.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 7.79997pt on input line 8.
 )
 \tf@toc=\write4
 \openout4 = `IUT-Thesis.toc'.
 
- [8
-
+ [6
 
 
 ]
@@ -1547,7 +1497,7 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 \tf@lof=\write5
 \openout5 = `IUT-Thesis.lof'.
 
- [9
+ [7
 
 
 
@@ -1588,7 +1538,7 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 \tf@lot=\write6
 \openout6 = `IUT-Thesis.lot'.
 
- [10
+ [8
 
 
 
@@ -1625,7 +1575,7 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [11
+ [9
 
 
 
@@ -1640,149 +1590,91 @@ LaTeX Font Info:    Font shape `TU/BZar(1)/b/n' will be
 \tf@loa=\write7
 \openout7 = `IUT-Thesis.loa'.
 
- [12
+ [10
 
-] (./Chapters/AbstractFa.tex)
+]
 LaTeX Font Info:    Font shape `TU/BZar(1)/m/n' will be
 (Font)              scaled to size 11.0pt on input line 126.
 LaTeX Font Info:    Font shape `TU/BZar(1)/b/n' will be
 (Font)              scaled to size 11.0pt on input line 126.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 13.19997pt on input line 126.
- [1
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[][]
+ []
+
+[1
 
 
 
-] (./Chapters/Chapter1.tex
+] (./Chapters/Chapter4.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 18.72003pt on input line 3.
+(Font)              scaled to size 18.72003pt on input line 11.
 LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
-(Font)              scaled to size 18.72003pt on input line 3.
+(Font)              scaled to size 18.72003pt on input line 11.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 11.
+
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 16.
 [2
 
 
 ]
-LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 8.45001pt on input line 25.
-LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 10.40002pt on input line 25.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 25.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 25.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 25.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 25.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 25.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 25.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 7.79997pt on input line 25.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 43.
-) (./Chapters/Chapter2.tex
+LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
+(Font)              scaled to size 14.30003pt on input line 33.
+)
 LaTeX Font Info:    Font shape `TU/BZar(0)/m/sl' in size <10> not available
-(Font)              Font shape `TU/BZar(0)/m/it' tried instead on input line 1.
+(Font)              Font shape `TU/BZar(0)/m/it' tried instead on input line 140.
 LaTeX Font Info:    Font shape `TU/BZar(0)/m/it' will be
-(Font)              scaled to size 13.00003pt on input line 1.
- [3] [4]
-فصل 2.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 4.
+(Font)              scaled to size 13.00003pt on input line 140.
+ [3] [4
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.16713pt
-(hyperref)                removed on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.16713pt
-(hyperref)                removed on input line 4.
-
-[5
 
 ]
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-File: Figures/Ch2/UnrealEngineBasicClassesUML.png Graphic file (type bmp)
-<Figures/Ch2/UnrealEngineBasicClassesUML.png>
 LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 14.30003pt on input line 70.
-) [6] [7] [8
+(Font)              scaled to size 14.30003pt on input line 144.
+ (./IUT-Thesis.bbl
 
+LaTeX Warning: Empty `thebibliography' environment on input line 6.
 
-] (./IUT-Thesis.bbl
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
-(Font)              scaled to size 13.19997pt on input line 9.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 28.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 11.00117pt on input line 28.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 8.14091pt on input line 28.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 6.60077pt on input line 28.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 10.99883pt on input line 28.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 8.13919pt on input line 28.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 6.59935pt on input line 28.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.14006> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.60007> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
-
-Underfull \hbox (badness 2409) in paragraph at lines 35--38
-[][]\TU/TimesNewRoman(0)/m/n/11 “Unreal engine architecture”,  [][][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][][][][] [] [][][] [] [] [] [][] [] [][][][][][] []$[][]
- []
-
-
-Underfull \hbox (badness 2050) in paragraph at lines 44--47
-[][]\TU/TimesNewRoman(0)/m/n/11 “Unreal engine components”,  [][][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][][][][] [] [][][] [] [] [] [][] [] [][][][][][] []$[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--47
-[][]$[][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][] [] [][][][][][] []$[][]
- []
-
-) (./Chapters/AbstractEn.tex) [9
+) [5
 
 
 ]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 13.19997pt on input line 160.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 11.0pt on input line 157.
+(Font)              scaled to size 11.0pt on input line 160.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 14.0pt on input line 157.
+(Font)              scaled to size 14.0pt on input line 160.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 14.0pt on input line 157.
+(Font)              scaled to size 14.0pt on input line 160.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 157.
+(Font)              scaled to size 12.0pt on input line 160.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 11.0pt on input line 157.
+(Font)              scaled to size 11.0pt on input line 160.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 157.
+(Font)              scaled to size 10.0pt on input line 160.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 157.
- [10
+(Font)              scaled to size 10.0pt on input line 160.
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+[][]
+ []
+
+[6
 
 ]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1820,24 +1712,12 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
 File: Settings/IUT_Logo.pdf Graphic file (type pdf)
 <use Settings/IUT_Logo.pdf>
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 16.0pt on input line 169.
+(Font)              scaled to size 16.0pt on input line 172.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 16.0pt on input line 169.
+(Font)              scaled to size 16.0pt on input line 172.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 169.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 169.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 169.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 169.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 169.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 169.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 169.
- [11
+(Font)              scaled to size 12.0pt on input line 172.
+ [7
 
 
 ]
@@ -1854,15 +1734,15 @@ See the caption package documentation for explanation.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `IUT-Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: C166A67A55D179DFE01E7F8B69F88EAE;2132.
+(rerunfilecheck)             Checksum: AEF6AD8F442C7D411779F63294DBA63A;1707.
  ) 
 Here is how much of TeX's memory you used:
- 22995 strings out of 476151
- 436422 string characters out of 5812645
- 931957 words of memory out of 5000000
- 43190 multiletter control sequences out of 15000+600000
- 514834 words of font info for 271 fonts, out of 8000000 for 9000
+ 23026 strings out of 476151
+ 434921 string characters out of 5812645
+ 930732 words of memory out of 5000000
+ 43250 multiletter control sequences out of 15000+600000
+ 504552 words of font info for 228 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,9n,128p,1377b,665s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,9n,128p,1398b,378s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on IUT-Thesis.xdv (22 pages, 177556 bytes).
+Output written on IUT-Thesis.xdv (16 pages, 93672 bytes).
