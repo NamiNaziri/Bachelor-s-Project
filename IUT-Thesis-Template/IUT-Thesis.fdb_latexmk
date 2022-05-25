@@ -1,29 +1,37 @@
 # Fdb version 3
-["bibtex IUT-Thesis"] 1653471803 "IUT-Thesis.aux" "IUT-Thesis.bbl" "IUT-Thesis" 1653471845
+["bibtex IUT-Thesis"] 1653491681 "IUT-Thesis.aux" "IUT-Thesis.bbl" "IUT-Thesis" 1653491692
   "./Settings/ModifiedIEEEtranFa.bst" 1490812319 21811 89f9eb8084f858718fe64a101a3adeb6 ""
-  "IUT-Thesis.aux" 1653471841 5116 48486665f06f4f48ced2323105eae41a "xelatex"
+  "IUT-Thesis.aux" 1653491685 12150 0a84386c7bf4bfd729cb65cfe524e52a "xelatex"
   "References.bib" 1651686799 2216 e1fde73b51f25f80169a35c5dc5b9247 ""
   (generated)
   "IUT-Thesis.bbl"
   "IUT-Thesis.blg"
-["xdvipdfmx"] 1653471843 "IUT-Thesis.xdv" "IUT-Thesis.pdf" "IUT-Thesis" 1653471845
-  "IUT-Thesis.xdv" 1653471841 136380 014c0fc249a84f1db853362f3db97f19 "xelatex"
+["xdvipdfmx"] 1653491686 "IUT-Thesis.xdv" "IUT-Thesis.pdf" "IUT-Thesis" 1653491692
+  "IUT-Thesis.xdv" 1653491685 368872 02a0f48529192da40373337a4418cb2e "xelatex"
   (generated)
   "IUT-Thesis.pdf"
-["xelatex"] 1653471837 "c:/Users/N/Desktop/Bachelor_Project/Repo/IUT-Thesis-Template/IUT-Thesis.tex" "IUT-Thesis.xdv" "IUT-Thesis" 1653471845
-  "Chapters/Chapter4.tex" 1653471834 8741 7d858be40ea2c7359d439c9c5a4b079b ""
-  "IUT-Thesis.aux" 1653471841 5116 48486665f06f4f48ced2323105eae41a "xelatex"
-  "IUT-Thesis.bbl" 1653471804 197 2fb1adf1fd81c035926c402bb994db94 "bibtex IUT-Thesis"
+["xelatex"] 1653491682 "c:/Users/N/Desktop/Bachelor_Project/Repo/IUT-Thesis-Template/IUT-Thesis.tex" "IUT-Thesis.xdv" "IUT-Thesis" 1653491692
+  "Chapters/Chapter1.tex" 1650704428 5840 23dc126b64f5c210822c28829a90b3c0 ""
+  "Chapters/Chapter2.tex" 1651750935 7890 729cb55305a11ac3794321b2b27eec63 ""
+  "Chapters/Chapter3.tex" 1650726461 5240 6b8a9083483a463f75c52719eae19192 ""
+  "Chapters/Chapter4.tex" 1653491614 14581 26bcf62312f451e3ca2c0826b5059a62 ""
+  "Figures/Ch2/TemplateSelection.png" 1651673058 335517 53054d316185da9b15b258b11a9da469 ""
+  "Figures/Ch2/UnrealEngineBasicClassesUML.png" 1650663105 83494 1e7d2f6875e2e456d63d01ad7d451cf0 ""
+  "Figures/Ch2/UnrealEngineBrowser.png" 1651672949 202429 5263f6c32af3d10c49868263bb62f668 ""
+  "Figures/Ch2/UnrealEngineEditor.png" 1651676251 666447 43434471c8268242ec8ac86011d4b556 ""
+  "Figures/Ch2/UnrealEngineProjectSetting.png" 1651675718 287544 4f7d8f5641130c5d8078490711881845 ""
+  "IUT-Thesis.aux" 1653491685 12150 0a84386c7bf4bfd729cb65cfe524e52a "xelatex"
+  "IUT-Thesis.bbl" 1653491682 1570 fc3fa68f7d5e352983d27167effc4409 "bibtex IUT-Thesis"
   "IUT-Thesis.loa" 0 -1 0 "xelatex"
-  "IUT-Thesis.lof" 1653471841 343 fb8b938e0a5a650a6fd5d810b62f9d28 "xelatex"
-  "IUT-Thesis.lot" 1653471841 343 fb8b938e0a5a650a6fd5d810b62f9d28 "xelatex"
-  "IUT-Thesis.out" 1653471841 2321 315877f4b6aca0cea378b82c285c6dd1 "xelatex"
-  "IUT-Thesis.tex" 1653139396 9047 ce6ed6b5de8c40e755c62801e0256b78 ""
-  "IUT-Thesis.toc" 1653471841 1804 6b596b16a8a314f445edee3f225aa836 "xelatex"
+  "IUT-Thesis.lof" 1653491685 1093 171cad7d9386388d120bfb0e732beea2 "xelatex"
+  "IUT-Thesis.lot" 1653491685 514 23698a889e8a09015e25441af82771b2 "xelatex"
+  "IUT-Thesis.out" 1653491685 5647 41506410174f4f950fe0c34a7c2817c4 "xelatex"
+  "IUT-Thesis.tex" 1653491667 9045 3433648aa0dae778dc59c7a348043618 ""
+  "IUT-Thesis.toc" 1653491685 3711 8aeae4c2ce47d2f7951ed1fca6cedf96 "xelatex"
   "Settings/Allah.pdf" 1439271903 6789 5604c8a39f0f13d26170cea6ce28e1ef ""
   "Settings/IUT-Thesis.sty" 1651682465 26588 927912485aa5de2682c28c2c17a35870 ""
   "Settings/IUT_Logo.pdf" 1419085879 8857 61bfa8545a8f471105ea7e0df8724a26 ""
-  "c:/Users/N/Desktop/Bachelor_Project/Repo/IUT-Thesis-Template/IUT-Thesis.tex" 1653139396 9047 ce6ed6b5de8c40e755c62801e0256b78 ""
+  "c:/Users/N/Desktop/Bachelor_Project/Repo/IUT-Thesis-Template/IUT-Thesis.tex" 1653491667 9045 3433648aa0dae778dc59c7a348043618 ""
   "g:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1650680110 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "g:/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1650696459 2172 fd0c924230362ff848a33632ed45dc23 ""
   "g:/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1650696459 2288 f478fc8fed18759effb59f3dad7f3084 ""
