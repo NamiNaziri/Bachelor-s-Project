@@ -1372,6 +1372,14 @@ INPUT Chapters/Chapter3.tex
 INPUT ./Figures/Ch2/UnrealEngineBasicClassesUML.png
 INPUT ./Figures/Ch2/UnrealEngineBasicClassesUML.png
 INPUT Figures/Ch2/UnrealEngineBasicClassesUML.png
+INPUT ./Chapters/Chapter5.tex
+INPUT ./Chapters/Chapter5.tex
+INPUT ./Chapters/Chapter5.tex
+INPUT Chapters/Chapter5.tex
+INPUT Chapters/Chapter5.tex
+INPUT ./Figures/Ch5/assimp_structure.png
+INPUT ./Figures/Ch5/assimp_structure.png
+INPUT Figures/Ch5/assimp_structure.png
 INPUT ./IUT-Thesis.bbl
 INPUT IUT-Thesis.bbl
 INPUT IUT-Thesis.bbl
