@@ -1380,6 +1380,9 @@ INPUT Chapters/Chapter5.tex
 INPUT ./Figures/Ch5/assimp_structure.png
 INPUT ./Figures/Ch5/assimp_structure.png
 INPUT Figures/Ch5/assimp_structure.png
+INPUT ./Figures/Ch5/LocomotionStateMachine.png
+INPUT ./Figures/Ch5/LocomotionStateMachine.png
+INPUT Figures/Ch5/LocomotionStateMachine.png
 INPUT ./IUT-Thesis.bbl
 INPUT IUT-Thesis.bbl
 INPUT IUT-Thesis.bbl

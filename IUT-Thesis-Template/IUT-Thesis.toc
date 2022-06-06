@@ -46,7 +46,12 @@
 \contentsline {section}{\numberline {5-2}پیاده‌سازی}{21}{section.5.2}%
 \contentsline {subsection}{\numberline {5-2-1}نمایش مدل گرافیکی}{21}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {5-2-2}قرارگیری مدل سه‌بعدی در کارت گرافیک}{22}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5-2-3}اسکلت شخصیت}{22}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5-2-4}اتصال اسکلت و مدل سه‌بعدی}{22}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5-2-5}انیمیشن}{23}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5-2-6}پخش‌کننده‌ی انیمیشن}{23}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5-2-7}ماشین حالت انیمیشن}{23}{subsection.5.2.7}%
 \setcounter {tocdepth}{-1}
 \setcounter {tocdepth}{2}
-\contentsline {chapter}{پیوست‌ها}{23}{appendix*.16}%
-\contentsline {chapter}{{مراجع}}{24}{appendix*.16}%
+\contentsline {chapter}{پیوست‌ها}{25}{appendix*.17}%
+\contentsline {chapter}{{مراجع}}{26}{appendix*.17}%
