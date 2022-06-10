@@ -46,6 +46,9 @@
 \usepackage{indentfirst}
 \usepackage{fontspec}
 \usepackage{booktabs}
+
+\usepackage{xcolor}
+\usepackage{listings}
 \usepackage{bidiftnxtra}%
 \usepackage{mathptmx}% http://ctan.org/pkg/mathptmx
 \usepackage{array,contour}% http://ctan.org/pkg/{array,contour}
@@ -55,6 +58,56 @@
 \usepackage{setspace}
 \usepackage[extrafootnotefeatures]{xepersian}
 \usepackage{makecell}
+
+
+
+\usepackage{color}
+
+
+\usepackage{listings}
+\usepackage{fullpage}
+
+\newcommand{\grayScale}{0.95} % Can change the gray level here
+\definecolor{codeBackground}{rgb}{\grayScale ,\grayScale ,\grayScale}
+\definecolor{forestGreen}{rgb}{0.13,0.55,0.13}
+
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{
+	frame=tb,
+	language=C++,
+	aboveskip=3mm,
+	belowskip=3mm,
+	showstringspaces=false,
+	columns=flexible,
+	basicstyle={\small\ttfamily},
+	numbers=none,
+	numberstyle=\tiny\color{gray},
+	keywordstyle=\color{blue},
+	commentstyle=\color{dkgreen},
+	stringstyle=\color{mauve},
+	breaklines=true,
+	breakatwhitespace=true,
+	tabsize=3
+	}
+	\lstset{literate=% Colors the digits
+	   *{0}{{{\color{red!20!violet}0}}}1
+		{1}{{{\color{red!20!violet}1}}}1
+		{2}{{{\color{red!20!violet}2}}}1
+		{3}{{{\color{red!20!violet}3}}}1
+		{4}{{{\color{red!20!violet}4}}}1
+		{5}{{{\color{red!20!violet}5}}}1
+		{6}{{{\color{red!20!violet}6}}}1
+		{7}{{{\color{red!20!violet}7}}}1
+		{8}{{{\color{red!20!violet}8}}}1
+		{9}{{{\color{red!20!violet}9}}}1
+	}	
+
+
+
 
 % ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Settings ▓▓▓▓▒▒▒▒▒▒░░░░░░░
 \settextfont[Scale=1.3, ItalicFont=*, ItalicFeatures={FakeSlant=0.32}, BoldItalicFont=* Bold, BoldItalicFeatures={FakeSlant=0.32}]{B Zar}

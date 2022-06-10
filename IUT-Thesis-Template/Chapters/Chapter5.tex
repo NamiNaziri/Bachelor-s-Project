@@ -227,6 +227,41 @@
 قابل ذکر است که ممکن است این ژست با توجه به زمان بازی و فاصله‌های زمانی داخل انیمیشن
 از درون‌یابی دو ژست پشت سر هم در آن کلیپ بدست آید.
 
+\subsection{الگوریتم پخش‌کننده‌ی انیمیشن }
+
+هر شخصیت درون بازی، اگر از نوع شخصیت اسکلتونی باشد، دارای یک پخش کننده ی انیمیشن خواهد بود.
+
+در تصویر زیر تابع به‌روزرسانی اسکلت به وسیله‌ی انیمیشن را می‌توان مشاهده کرد.
+
+\begin{latin}
+	\begin{lstlisting}
+		currentTime += deltaTime;
+
+		const double currentAnimationTime = (currentTime - startTimeForCurrentAnim);
+		AnimationPose currentPose = currentClip->GetPoseForCurrentFrame(currentAnimationTime * currentClip->GetFramePerSecond());
+		
+		SetSkeletonPose(currentPose);
+	\end{lstlisting}
+\end{latin}	
+
+
+
+برای اینکه بتوان یک انیمیشن را پخش کرد نیاز است دو مورد زیر را بدانیم.
+
+\begin{enumerate}
+	\item زمان فعلی درون بازی(\lr{CurrentTime})
+	\item زمان شروع پخش انیمیشن فعلی(\lr{StartTimeForCurrentAnimation}) 
+\end{enumerate}
+
+در ابتدا زمان فعلی درون بازی را برای این پخش‌کننده به‌روزرسانی می‌کنیم.
+سپس برای بدست آوردن زمان فعلی انیمیشن می‌توان از فرمول زیر استفاده کرد
+
+\lr{CurrentAnimationTime = CurrentTime - StartTimeForCurrentAnimation}
+
+در نهایت با استفاده از این مقدار می‌توان ژست مورد نظر را از داخل کلیپ انیمیشنی بدست ‌آورد.
+در نهایت نیز این ژست را بر روی اسکلت شخصیت اعمال می‌کنیم.
+
+
 \subsection{ماشین حالت انیمیشن}
 
 یکی از روش‌های ترکیب انیمیشن‌های مختلف با یکدیگر، استفاده از ماشین حالت متناهی است.
@@ -249,8 +284,7 @@
 \end{figure}
 
 
-برای پیا‌ده‌سازی ماشین حالت متناهی، این سیستم به سه کلاس کلی شکسته‌شده‌است..
-کلاس
+برای پیا‌ده‌سازی ماشین حالت متناهی، این سیستم به سه کلاس کلی شکسته‌شده‌است. کلاس
 \lr{AnimationStateMachine}
 که وظیفه‌ی مدیریت حالت‌ها و انتقال از یک حالت به حالت دیگری را دارد.
 کلاس 
@@ -265,3 +299,67 @@
 \lr{AnimationStateMachine}
 است که بررسی کند، اگر انتقالی امکان‌پذیر بود، آن را انجام دهد.
 
+\subsection{به‌روزرسانی ماشین حالت انیمیشن}
+
+وضعیت توابع انتقال تاثیرگذاری مستقیمی در وضعیت سیستم به‌روزرسانی ماشین حالت انیمیشن دارد.
+وضعیت انتقال می‌تواند سه حالت زیر را داشته باشد.
+
+\begin{enumerate}
+	\item حالت عادی \LTRfootnote{Normal}
+	\item حالت در حال انتقال \LTRfootnote{Transitioning}
+	\item حالت اتمام انتقال \LTRfootnote{Finished}
+\end{enumerate}
+
+
+حالت اول حالت عادی
+است که نشان‌دهنده‌ی وضعیت عادی ماشین حالت است. در این وضعیت، توابع انتقال حالت فعلی بررسی می‌شوند تا در صورتی که شرایطشان برقرار شود، تغییر حالت رخ دهد. علاوه بر آن انیمیشن حالت فعلی با استفاده از کلاس پخش‌کننده آپدیت می‌شود.
+در صورتی که توابع انتقال مقدار درست
+\LTRfootnote{True}
+را بازگردانند، ماشین به وضعیت دوم که وضعیت درحال انتقال
+است، تغییر وضعیت می‌دهد.
+در این وضعیت با توجه به زمانی که مشخص شده، ژست شخصیت با استفاده از درون‌یابی خطی از حالت فعلی به حالت جدید تغییر می‌کند.
+پس از اینکه انتقال به صورت کامل انجام شد، وضعیت ماشین حالت به اتمام انتقال
+تغییر می‌یابد. زمانی که ماشین‌ در این وضعیت قرار گرفته یعنی به حالت جدید منتقل شده، بنابراین لازم است انیمیشن را از حالت جدید گرفته و آن را به کلاس پخش کننده داده تا آن را پخش کند.
+پس از این کار وضعیت ماشین دوباره به حالت عادی تغییر می‌یابد و همه‌ی این موارد دوباره تکرار می‌شوند.
+
+\begin{latin}
+	
+
+\begin{lstlisting}
+
+	if(transitionStatus == TransitionStatus::normal) 
+	{
+		for (const auto&  transition : currentState->GetTransitions()) // loop through transitions of the current state
+		{
+			if (transition->Evaluate())
+			{
+				transitionStatus = TransitionStatus::transitioning;
+				currentState = animationStatesMap.at(transition->to);
+				TransitionFromPose = animator->GetPoseAtCurrentTime();
+				TransitionToPose = currentState->GetAnimClip()->GetPoseForCurrentFrame(0);
+				currentTime = 0;
+				transitionTime = transition->transitionTime;
+				break;
+			}
+		}
+	}
+
+	if (transitionStatus == TransitionStatus::normal)
+	{
+		animator->Update(deltaTime);
+	}
+	else if(transitionStatus == TransitionStatus::transitioning)
+	{
+		if(TransitionUpdate(deltaTime)) 
+		{
+			transitionStatus = TransitionStatus::finished;
+		}
+	}
+	else if(transitionStatus == TransitionStatus::finished)
+	{
+		animator->ChangeAnimationClip(*(currentState->GetAnimClip()), 0); 
+		transitionStatus = TransitionStatus::normal;
+	}
+\end{lstlisting}
+
+\end{latin}
