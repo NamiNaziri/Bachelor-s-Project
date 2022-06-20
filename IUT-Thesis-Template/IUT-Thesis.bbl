@@ -31,15 +31,6 @@ Gregory, J.,
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{UnrealEngineBlueprint}
-``Unreal engine blueprint'',
-\newblock
-  \url{https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{UnrealEngineArchitecture}
 ``Unreal engine architecture'',
 \newblock
