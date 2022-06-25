@@ -1380,6 +1380,15 @@ INPUT ./Chapters/Chapter1.tex
 INPUT ./Chapters/Chapter1.tex
 INPUT Chapters/Chapter1.tex
 INPUT Chapters/Chapter1.tex
+INPUT ./Figures/Ch1/KeyframeAnimation.png
+INPUT ./Figures/Ch1/KeyframeAnimation.png
+INPUT Figures/Ch1/KeyframeAnimation.png
+INPUT ./Figures/Ch1/Panorama.png
+INPUT ./Figures/Ch1/Panorama.png
+INPUT Figures/Ch1/Panorama.png
+INPUT ./Figures/Ch1/DifferentLayers.png
+INPUT ./Figures/Ch1/DifferentLayers.png
+INPUT Figures/Ch1/DifferentLayers.png
 INPUT ./Chapters/Chapter3.tex
 INPUT ./Chapters/Chapter3.tex
 INPUT ./Chapters/Chapter3.tex
