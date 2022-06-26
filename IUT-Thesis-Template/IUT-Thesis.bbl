@@ -5,6 +5,14 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{AnimationWikipedia}
+``Animation wikipedia'',
+\newblock \url{https://en.wikipedia.org/wiki/Animation}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{barczak2019comparative}
 Barczak, A.~M. and Wo{\'z}niak, H., ``Comparative study on game engines'', {\em
   Studia Informatica. Systems and Information Technology. Systemy i Technologie

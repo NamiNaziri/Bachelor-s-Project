@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex IUT-Thesis"] 1656243021 "IUT-Thesis.aux" "IUT-Thesis.bbl" "IUT-Thesis" 1656243033
+["bibtex IUT-Thesis"] 1656244410 "IUT-Thesis.aux" "IUT-Thesis.bbl" "IUT-Thesis" 1656244685
   "./Settings/ModifiedIEEEtranFa.bst" 1490812319 21811 89f9eb8084f858718fe64a101a3adeb6 ""
-  "IUT-Thesis.aux" 1656243027 16879 34aab738f718a70a6c024ed5197a27ad "xelatex"
-  "References.bib" 1654252833 3685 141e4ad87e48dd401b011003b3255d5d ""
+  "IUT-Thesis.aux" 1656244679 16942 2f0b127ee7ebf8152a732582294ea7f5 "xelatex"
+  "References.bib" 1656243449 4190 54774d590c4e578d0ba2b97be345e078 ""
   (generated)
   "IUT-Thesis.bbl"
   "IUT-Thesis.blg"
-["xdvipdfmx"] 1656243029 "IUT-Thesis.xdv" "IUT-Thesis.pdf" "IUT-Thesis" 1656243033
-  "IUT-Thesis.xdv" 1656243027 674804 50f2e28e1acff0b83ca533ec26a39d3d "xelatex"
+["xdvipdfmx"] 1656244681 "IUT-Thesis.xdv" "IUT-Thesis.pdf" "IUT-Thesis" 1656244685
+  "IUT-Thesis.xdv" 1656244679 676764 8eea0071d08a6aabd724b189dfa82f3b "xelatex"
   (generated)
   "IUT-Thesis.pdf"
-["xelatex"] 1656243022 "c:/Users/N/Desktop/Bachelor_Project/Repo/IUT-Thesis-Template/IUT-Thesis.tex" "IUT-Thesis.xdv" "IUT-Thesis" 1656243033
-  "Chapters/Chapter1.tex" 1656243018 24818 01251c2f47c31a227a253bb373253389 ""
+["xelatex"] 1656244675 "c:/Users/N/Desktop/Bachelor_Project/Repo/IUT-Thesis-Template/IUT-Thesis.tex" "IUT-Thesis.xdv" "IUT-Thesis" 1656244685
+  "Chapters/Chapter1.tex" 1656244671 24963 429f9452c1e7dc1e06bf3b24df46f9e2 ""
   "Chapters/Chapter3.tex" 1656206419 17089 af62f6c9386fae10d2c972ad92899bf3 ""
   "Chapters/Chapter4.tex" 1650726461 5240 6b8a9083483a463f75c52719eae19192 ""
   "Chapters/Chapter4_temp.tex" 1656206905 4589 e59a750220b59d2f3dc006315a72d0f3 ""
@@ -22,14 +22,14 @@
   "Figures/Ch2/UnrealEngineBasicClassesUML.png" 1650663105 83494 1e7d2f6875e2e456d63d01ad7d451cf0 ""
   "Figures/Ch5/LocomotionStateMachine.png" 1654512668 22035 2cb942bbf883c711ac4ff8bf965b069f ""
   "Figures/Ch5/assimp_structure.png" 1654251895 65273 c556db85eafcafa9c5b88d5438599447 ""
-  "IUT-Thesis.aux" 1656243027 16879 34aab738f718a70a6c024ed5197a27ad "xelatex"
-  "IUT-Thesis.bbl" 1656243022 2444 8cc7e3dbc705f026c501cabb8e2f61b9 "bibtex IUT-Thesis"
+  "IUT-Thesis.aux" 1656244679 16942 2f0b127ee7ebf8152a732582294ea7f5 "xelatex"
+  "IUT-Thesis.bbl" 1656244410 2611 6153a9a943933edf6d44afe68c817664 "bibtex IUT-Thesis"
   "IUT-Thesis.loa" 0 -1 0 "xelatex"
-  "IUT-Thesis.lof" 1656243027 1299 0cf571d2ec92a825ef03b6587c0f964b "xelatex"
-  "IUT-Thesis.lot" 1656243027 423 803061533a6330148be158e47eba465a "xelatex"
-  "IUT-Thesis.out" 1656243027 9743 9a07ea01be8021284f13ca4092910c24 "xelatex"
+  "IUT-Thesis.lof" 1656244679 1299 0cf571d2ec92a825ef03b6587c0f964b "xelatex"
+  "IUT-Thesis.lot" 1656244679 423 803061533a6330148be158e47eba465a "xelatex"
+  "IUT-Thesis.out" 1656244679 9743 9a07ea01be8021284f13ca4092910c24 "xelatex"
   "IUT-Thesis.tex" 1655723969 9106 09c90f8e2ee817423058e455da9664c0 ""
-  "IUT-Thesis.toc" 1656243027 5955 75590e9b6111b89b18c106601d4bd458 "xelatex"
+  "IUT-Thesis.toc" 1656244679 5955 75590e9b6111b89b18c106601d4bd458 "xelatex"
   "Settings/Allah.pdf" 1439271903 6789 5604c8a39f0f13d26170cea6ce28e1ef ""
   "Settings/IUT-Thesis.sty" 1654901711 27778 d569adee0a9d234bd82dee36eb1395ea ""
   "Settings/IUT_Logo.pdf" 1419085879 8857 61bfa8545a8f471105ea7e0df8724a26 ""
