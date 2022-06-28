@@ -22,6 +22,15 @@ Barczak, A.~M. and Wo{\'z}niak, H., ``Comparative study on game engines'', {\em
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Lasseter1987animation}
+Lasseter, J., ``Principles of traditional animation applied to 3d computer
+  animation'', {\em Proceedings of the 14th annual conference on Computer
+  graphics and interactive techniques}, 1987.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{GameEngineArchitecture}
 Gregory, J.,
 \newblock {\em Game Engine Architecture},
@@ -34,6 +43,31 @@ Gregory, J.,
 \bibitem{UnrealEngineWikiPedia}
 ``Unreal engine wikipedia'',
 \newblock \url{https://en.wikipedia.org/wiki/Unreal_Engine}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{UnrealEngineBlueprint}
+``Unreal engine blueprint'',
+\newblock
+  \url{https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{KhronosUsingOpenGL}
+``Using opengl'',
+\newblock \url{https://www.khronos.org/opengl/wiki/Getting_Started}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{LearnOpenGL_GettingStarted}
+``Opengl state macine'',
+\newblock \url{https://learnopengl.com/Getting-started/OpenGL}.
 
 \end{LTRbibitems}
 
@@ -52,22 +86,6 @@ Gregory, J.,
 ``Unreal engine components'',
 \newblock
   \url{https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ProgrammingWithCPP/UnrealArchitecture/Actors/Components/}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{KhronosUsingOpenGL}
-``Using opengl'',
-\newblock \url{https://www.khronos.org/opengl/wiki/Getting_Started}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{LearnOpenGL_GettingStarted}
-``Opengl state macine'',
-\newblock \url{https://learnopengl.com/Getting-started/OpenGL}.
 
 \end{LTRbibitems}
 

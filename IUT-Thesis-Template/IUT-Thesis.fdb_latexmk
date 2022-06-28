@@ -1,18 +1,21 @@
 # Fdb version 3
-["bibtex IUT-Thesis"] 1656244410 "IUT-Thesis.aux" "IUT-Thesis.bbl" "IUT-Thesis" 1656244685
+["bibtex IUT-Thesis"] 1656378221 "IUT-Thesis.aux" "IUT-Thesis.bbl" "IUT-Thesis" 1656378238
   "./Settings/ModifiedIEEEtranFa.bst" 1490812319 21811 89f9eb8084f858718fe64a101a3adeb6 ""
-  "IUT-Thesis.aux" 1656244679 16942 2f0b127ee7ebf8152a732582294ea7f5 "xelatex"
-  "References.bib" 1656243449 4190 54774d590c4e578d0ba2b97be345e078 ""
+  "IUT-Thesis.aux" 1656378232 17632 e2c5bdd5eecabaa6eba13ebf68286a17 "xelatex"
+  "References.bib" 1656374088 4453 303f106efbe646575ed24eda63c6c902 ""
   (generated)
   "IUT-Thesis.bbl"
   "IUT-Thesis.blg"
-["xdvipdfmx"] 1656244681 "IUT-Thesis.xdv" "IUT-Thesis.pdf" "IUT-Thesis" 1656244685
-  "IUT-Thesis.xdv" 1656244679 676764 8eea0071d08a6aabd724b189dfa82f3b "xelatex"
+["xdvipdfmx"] 1656378235 "IUT-Thesis.xdv" "IUT-Thesis.pdf" "IUT-Thesis" 1656378238
+  "IUT-Thesis.xdv" 1656378232 726092 a9d373f889631c32c991ec032be50979 "xelatex"
   (generated)
   "IUT-Thesis.pdf"
-["xelatex"] 1656244675 "c:/Users/N/Desktop/Bachelor_Project/Repo/IUT-Thesis-Template/IUT-Thesis.tex" "IUT-Thesis.xdv" "IUT-Thesis" 1656244685
-  "Chapters/Chapter1.tex" 1656244671 24963 429f9452c1e7dc1e06bf3b24df46f9e2 ""
-  "Chapters/Chapter3.tex" 1656206419 17089 af62f6c9386fae10d2c972ad92899bf3 ""
+["xelatex"] 1656378222 "c:/Users/N/Desktop/Bachelor_Project/Repo/IUT-Thesis-Template/IUT-Thesis.tex" "IUT-Thesis.xdv" "IUT-Thesis" 1656378238
+  "Chapters/Chapter1.tex" 1656376444 9753 87d42b82d2900db0fc632233eb00335f ""
+  "Chapters/Chapter2.tex" 1656377752 20689 2c87f96a4cb4554443a35d3895bf8e05 ""
+  "Chapters/Chapter2_ComputerGraphics.tex" 1656378174 1899 cd08938d88b564af076a2019b479523f ""
+  "Chapters/Chapter2_GameEngine.tex" 1656377918 6989 b040e8310087232b7225480ec32ab966 ""
+  "Chapters/Chapter2_TypesOfAnimation.tex" 1656374435 9242 046501df9428725d11493da847d5bc40 ""
   "Chapters/Chapter4.tex" 1650726461 5240 6b8a9083483a463f75c52719eae19192 ""
   "Chapters/Chapter4_temp.tex" 1656206905 4589 e59a750220b59d2f3dc006315a72d0f3 ""
   "Chapters/Chapter5.tex" 1656206737 20708 71e18a0647e9e4897101a71318dc7c25 ""
@@ -22,18 +25,18 @@
   "Figures/Ch2/UnrealEngineBasicClassesUML.png" 1650663105 83494 1e7d2f6875e2e456d63d01ad7d451cf0 ""
   "Figures/Ch5/LocomotionStateMachine.png" 1654512668 22035 2cb942bbf883c711ac4ff8bf965b069f ""
   "Figures/Ch5/assimp_structure.png" 1654251895 65273 c556db85eafcafa9c5b88d5438599447 ""
-  "IUT-Thesis.aux" 1656244679 16942 2f0b127ee7ebf8152a732582294ea7f5 "xelatex"
-  "IUT-Thesis.bbl" 1656244410 2611 6153a9a943933edf6d44afe68c817664 "bibtex IUT-Thesis"
+  "IUT-Thesis.aux" 1656378232 17632 e2c5bdd5eecabaa6eba13ebf68286a17 "xelatex"
+  "IUT-Thesis.bbl" 1656378222 3107 5e66fe5210c686975670c1d478781ee3 "bibtex IUT-Thesis"
   "IUT-Thesis.loa" 0 -1 0 "xelatex"
-  "IUT-Thesis.lof" 1656244679 1299 0cf571d2ec92a825ef03b6587c0f964b "xelatex"
-  "IUT-Thesis.lot" 1656244679 423 803061533a6330148be158e47eba465a "xelatex"
-  "IUT-Thesis.out" 1656244679 9743 9a07ea01be8021284f13ca4092910c24 "xelatex"
-  "IUT-Thesis.tex" 1655723969 9106 09c90f8e2ee817423058e455da9664c0 ""
-  "IUT-Thesis.toc" 1656244679 5955 75590e9b6111b89b18c106601d4bd458 "xelatex"
+  "IUT-Thesis.lof" 1656378232 1299 d5c540209690a2f3be10967252b63420 "xelatex"
+  "IUT-Thesis.lot" 1656378232 423 803061533a6330148be158e47eba465a "xelatex"
+  "IUT-Thesis.out" 1656378232 10145 c241d1dd0e84fb4abc6f9ca471667ceb "xelatex"
+  "IUT-Thesis.tex" 1656373003 9106 33ed7853a48ce4f78384666a47f216f0 ""
+  "IUT-Thesis.toc" 1656378232 6211 f935390cc2d2ec9c38bcf94db0953183 "xelatex"
   "Settings/Allah.pdf" 1439271903 6789 5604c8a39f0f13d26170cea6ce28e1ef ""
   "Settings/IUT-Thesis.sty" 1654901711 27778 d569adee0a9d234bd82dee36eb1395ea ""
   "Settings/IUT_Logo.pdf" 1419085879 8857 61bfa8545a8f471105ea7e0df8724a26 ""
-  "c:/Users/N/Desktop/Bachelor_Project/Repo/IUT-Thesis-Template/IUT-Thesis.tex" 1655723969 9106 09c90f8e2ee817423058e455da9664c0 ""
+  "c:/Users/N/Desktop/Bachelor_Project/Repo/IUT-Thesis-Template/IUT-Thesis.tex" 1656373003 9106 33ed7853a48ce4f78384666a47f216f0 ""
   "g:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1650680110 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "g:/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1650696459 2172 fd0c924230362ff848a33632ed45dc23 ""
   "g:/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1650696459 2288 f478fc8fed18759effb59f3dad7f3084 ""

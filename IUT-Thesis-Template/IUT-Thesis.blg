@@ -3,51 +3,51 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: IUT-Thesis.aux
 The style file: Settings/ModifiedIEEEtranFa.bst
 Database file #1: References.bib
-Repeated entry---line 47 of file References.bib
+Repeated entry---line 59 of file References.bib
  : @article{barczak2019comparative
  :                                ,
 I'm skipping whatever remains of this entry
 
 Done.
-You've used 13 entries,
+You've used 15 entries,
             2350 wiz_defined-function locations,
-            656 strings with 6166 characters,
-and the built_in function-call counts, 1841 in all, are:
-= -- 198
-> -- 23
+            666 strings with 6529 characters,
+and the built_in function-call counts, 2121 in all, are:
+= -- 224
+> -- 28
 < -- 0
-+ -- 16
-- -- 3
-* -- 48
-:= -- 162
-add.period$ -- 13
-call.type$ -- 13
-change.case$ -- 46
++ -- 19
+- -- 4
+* -- 57
+:= -- 193
+add.period$ -- 15
+call.type$ -- 15
+change.case$ -- 51
 chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 62
-empty$ -- 236
-format.name$ -- 3
-if$ -- 526
+cite$ -- 15
+duplicate$ -- 75
+empty$ -- 271
+format.name$ -- 4
+if$ -- 603
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 49
-newline$ -- 110
-num.names$ -- 2
-pop$ -- 107
+int.to.str$ -- 15
+missing$ -- 57
+newline$ -- 125
+num.names$ -- 3
+pop$ -- 120
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 35
+skip$ -- 39
 stack$ -- 0
 substring$ -- 0
-swap$ -- 2
+swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 2
 type$ -- 0
 warning$ -- 0
-while$ -- 2
-width$ -- 15
-write$ -- 141
+while$ -- 3
+width$ -- 17
+write$ -- 162
 (There was 1 error message)
