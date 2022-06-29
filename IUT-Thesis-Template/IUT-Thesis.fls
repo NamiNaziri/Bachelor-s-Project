@@ -1430,6 +1430,9 @@ INPUT Chapters/Chapter2_GameEngine.tex
 INPUT ./Chapters/Chapter2_ComputerGraphics.tex
 INPUT Chapters/Chapter2_ComputerGraphics.tex
 INPUT Chapters/Chapter2_ComputerGraphics.tex
+INPUT ./Figures/Ch2/Phong_components.png
+INPUT ./Figures/Ch2/Phong_components.png
+INPUT Figures/Ch2/Phong_components.png
 INPUT ./Chapters/Chapter4_temp.tex
 INPUT Chapters/Chapter4_temp.tex
 INPUT Chapters/Chapter4_temp.tex

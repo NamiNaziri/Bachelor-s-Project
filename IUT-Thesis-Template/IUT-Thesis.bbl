@@ -57,6 +57,15 @@ Gregory, J.,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{ComputerGraphicsWikipedia}
+``Computer graphics wikipedia'',
+\newblock
+  \url{https://en.wikipedia.org/wiki/Computer_graphics_(computer_science)}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{KhronosUsingOpenGL}
 ``Using opengl'',
 \newblock \url{https://www.khronos.org/opengl/wiki/Getting_Started}.
@@ -68,6 +77,22 @@ Gregory, J.,
 \bibitem{LearnOpenGL_GettingStarted}
 ``Opengl state macine'',
 \newblock \url{https://learnopengl.com/Getting-started/OpenGL}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{LearnOpenGLPhongShading}
+``Phone shading lernopengl'',
+\newblock \url{https://learnopengl.com/Lighting/Basic-Lighting}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{PhongShadingWikipedia}
+``Phong shading wikipedia'',
+\newblock \url{https://en.wikipedia.org/wiki/Phong_reflection_model}.
 
 \end{LTRbibitems}
 
