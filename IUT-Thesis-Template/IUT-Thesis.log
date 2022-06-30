@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.23)  29 JUN 2022 22:27
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.23)  30 JUN 2022 06:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1514,11 +1514,11 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
  [6
 
 
-] [7])
+])
 \tf@toc=\write4
 \openout4 = `IUT-Thesis.toc'.
 
- [8]
+ [7]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1555,7 +1555,7 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 \tf@lof=\write5
 \openout5 = `IUT-Thesis.lof'.
 
- [9
+ [8
 
 
 
@@ -1596,7 +1596,7 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 \tf@lot=\write6
 \openout6 = `IUT-Thesis.lot'.
 
- [10
+ [9
 
 
 
@@ -1633,7 +1633,7 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [11
+ [10
 
 
 
@@ -1648,7 +1648,7 @@ LaTeX Font Info:    Font shape `TU/BZar(1)/b/n' will be
 \tf@loa=\write7
 \openout7 = `IUT-Thesis.loa'.
 
- [12
+ [11
 
 ]
 LaTeX Font Info:    Font shape `TU/BZar(1)/m/n' will be
@@ -1690,7 +1690,7 @@ Overfull \vbox (7.0713pt too high) has occurred while \output is active []
  [4]
 فصل 2.
 
-Overfull \hbox (3.02167pt too wide) in paragraph at lines 19--35
+Overfull \hbox (3.02167pt too wide) in paragraph at lines 9--25
 []\TU/BZar(0)/m/n/10 کامپیوتری پیدا کرده‌اند. برای تولید بازی‌های کامپیوتری از موتور‌های بازی‌سازی استفاده می‌شود. موتور‌های بازی‌سازی[]
  []
 
@@ -1767,175 +1767,125 @@ Overfull \vbox (7.02052pt too high) has occurred while \output is active []
 File: Figures/Ch2/Phong_components.png Graphic file (type bmp)
 <Figures/Ch2/Phong_components.png>
 )
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 65.
+Overfull \hbox (7.86906pt too wide) in paragraph at lines 53--59
+[][]\TU/BZar(0)/m/n/10 در پویانمایی اسکلتی از مدل‌های اسکلتی استفاده می‌شود. هر مدل اسکلتی از دو بخش مدل و اسکلت تشکیل‌شده‌است.[]
+ []
 
 
 Overfull \vbox (7.10939pt too high) has occurred while \output is active []
 
  [13]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 61.
+
+File: Figures/Ch2/Dolphin.png Graphic file (type bmp)
+<Figures/Ch2/Dolphin.png>
+
 Overfull \vbox (7.0713pt too high) has occurred while \output is active []
 
  [14]
+File: Figures/Ch2/Mesh.png Graphic file (type bmp)
+<Figures/Ch2/Mesh.png>
 LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 7.80002pt on input line 108.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 115.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 126.
-
+(Font)              scaled to size 7.80002pt on input line 121.
 
 Overfull \vbox (7.05861pt too high) has occurred while \output is active []
 
  [15]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 140.
+(hyperref)                removing `\@ifnextchar' on input line 128.
 
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 155.
+File: Figures/Ch2/Car.png Graphic file (type bmp)
+<Figures/Ch2/Car.png>
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 147.
+
 
 Overfull \vbox (7.10939pt too high) has occurred while \output is active []
 
  [16]
+File: Figures/Ch2/Material.png Graphic file (type bmp)
+<Figures/Ch2/Material.png>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 169.
+
+File: Figures/Ch2/texture.png Graphic file (type bmp)
+<Figures/Ch2/texture.png>
+
 Overfull \vbox (7.02052pt too high) has occurred while \output is active []
 
- [17]) (./Chapters/Chapter4_temp.tex
+ [17]
+File: Figures/Ch2/SkeletalModel.png Graphic file (type bmp)
+<Figures/Ch2/SkeletalModel.png>
+
 Overfull \vbox (7.02052pt too high) has occurred while \output is active []
 
  [18]
-فصل 3.
-[19
-
-]
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-) (./Chapters/Chapter4.tex
-Overfull \vbox (7.02052pt too high) has occurred while \output is active []
-
- [20]
-فصل 4.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.16713pt
-(hyperref)                removed on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.16713pt
-(hyperref)                removed on input line 4.
-
-[21
-
-]
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-File: Figures/Ch2/UnrealEngineBasicClassesUML.png Graphic file (type bmp)
-<Figures/Ch2/UnrealEngineBasicClassesUML.png>
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 13.19997pt on input line 70.
-) (./Chapters/Chapter5.tex
-Overfull \vbox (7.02052pt too high) has occurred while \output is active []
-
- [22]
-Overfull \vbox (7.10939pt too high) has occurred while \output is active []
-
- [23]
-فصل 5.
-[24
-
-]
-File: Figures/Ch5/assimp_structure.png Graphic file (type bmp)
-<Figures/Ch5/assimp_structure.png>
-
-Overfull \vbox (7.05861pt too high) has occurred while \output is active []
-
- [25]
-Overfull \vbox (7.10939pt too high) has occurred while \output is active []
-
- [26]
-Overfull \vbox (7.02052pt too high) has occurred while \output is active []
-
- [27]
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 10.79997pt on input line 239.
-
-Overfull \vbox (7.02052pt too high) has occurred while \output is active []
-
- [28]
-File: Figures/Ch5/LocomotionStateMachine.png Graphic file (type bmp)
-<Figures/Ch5/LocomotionStateMachine.png>
-
-Overfull \hbox (28.41165pt too wide) in paragraph at lines 289--303
-[][]\TU/BZar(0)/m/n/10 برای پیا‌ده‌سازی ماشین حالت متناهی، این سیستم به سه کلاس کلی شکسته‌شده‌است. کلاس []\TU/TimesNewRoman(0)/m/n/10 AnimationStateMachine[][]
- []
-
-
-Overfull \hbox (4.79617pt too wide) in paragraph at lines 289--303
-[]\TU/BZar(0)/m/n/10 که وظیفه‌ی مدیریت حالت‌ها و انتقال از یک حالت به حالت دیگری را دارد. کلاس []\TU/TimesNewRoman(0)/m/n/10 AnimationState[] \TU/BZar(0)/m/n/10 که نشان‌دهنده‌ی[]
- []
-
+File: Figures/Ch2/Skinning.png Graphic file (type bmp)
+<Figures/Ch2/Skinning.png>
 
 Overfull \vbox (7.11574pt too high) has occurred while \output is active []
 
- [29]
-Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+ [19]
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
 
- [30])
-Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+ [20])
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
 
- [31] [32
+ [21] [22
 
 
 ] (./IUT-Thesis.bbl
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 13.19997pt on input line 7.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 (Font)              scaled to size 13.19997pt on input line 17.
 
-Underfull \hbox (badness 6675) in paragraph at lines 52--55
+Underfull \hbox (badness 2837) in paragraph at lines 26--29
+[][]\TU/TimesNewRoman(0)/m/n/11 “Keyframe animarion berkeley”,  [][][]$[][][][][] [] [] [] [][][][][] [] [][][][] [] [][][][][][][][] [] [][][] [] [][][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 6675) in paragraph at lines 78--81
 [][]\TU/TimesNewRoman(0)/m/n/11 “Unreal engine blueprint”,  [][][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][][][][] [] [][][] [] [] [] [][] [] [][][][][][] []$[][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--88
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
 [][]\TU/TimesNewRoman(0)/m/n/11 “Phone shading lernopengl”,  [][][]$[][][][][] [] [] [] [][][][][][][][][][][] [] [][][] [] [][][][][][][][] []$[][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--96
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
 [][]\TU/TimesNewRoman(0)/m/n/11 “Phong shading wikipedia”,  [][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] []$[][]
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 102--105
-[][]\TU/TimesNewRoman(0)/m/n/11 “Unreal engine architecture”,  [][][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][][][][] [] [][][] [] [] [] [][] [] [][][][][][] []$[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--114
-[][]$[][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][] [] [][][][][][] []$[][]
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 136--139
-[][]\TU/TimesNewRoman(0)/m/n/11 “Assimp”,  [][][]$[][][][][] [] [] [] [][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][] [] [][] [] [][] [] [] [] [] [] [][][][][] []$[][]
+[][]\TU/TimesNewRoman(0)/m/n/11 “Different parts of a car”,  [][][]$[][][][][] [] [] [] [][][][][][][] [] [][][] [] [][] [] [][][][][][][][][] [] [][][][] []$[][]
  []
 
-) [33
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+[][]\TU/TimesNewRoman(0)/m/n/11 “Different materials”,  [][][]$[][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][][][][] [] [][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+[][]\TU/TimesNewRoman(0)/m/n/11 “Skeletal model”,  [][][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
+[][]\TU/TimesNewRoman(0)/m/n/11 “Skinning”,  [][][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][][] [] [][][][] [] [][][][][][][][][][][] []$[][]
+ []
+
+) [23
 
 
 ]
@@ -1963,7 +1913,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--162
 [][]
  []
 
-[34
+[24
 
 ]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -2006,7 +1956,7 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
 (Font)              scaled to size 16.0pt on input line 174.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 174.
- [35
+ [25
 
 
 ]
@@ -2023,15 +1973,15 @@ See the caption package documentation for explanation.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `IUT-Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 73E7D052DD119EBF2BD0F7508F9AE71E;10775.
+(rerunfilecheck)             Checksum: EA2A90DB959311164012DB6F97C5F86E;6562.
  ) 
 Here is how much of TeX's memory you used:
- 25212 strings out of 476151
- 470284 string characters out of 5812645
+ 25004 strings out of 476151
+ 467391 string characters out of 5812645
  1050029 words of memory out of 5000000
- 45345 multiletter control sequences out of 15000+600000
- 514850 words of font info for 273 fonts, out of 8000000 for 9000
+ 45147 multiletter control sequences out of 15000+600000
+ 514826 words of font info for 270 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,9n,128p,1398b,1846s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,9n,128p,1398b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on IUT-Thesis.xdv (46 pages, 776744 bytes).
+Output written on IUT-Thesis.xdv (35 pages, 524056 bytes).

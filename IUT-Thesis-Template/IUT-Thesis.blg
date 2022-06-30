@@ -3,56 +3,58 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: IUT-Thesis.aux
 The style file: Settings/ModifiedIEEEtranFa.bst
 Database file #1: References.bib
-I was expecting a `{' or a `('---line 107 of file References.bib
+I was expecting a `{' or a `('---line 273 of file References.bib
  : 
  : @MISC{AnimationWikipedia,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 123 of file References.bib
+Repeated entry---line 289 of file References.bib
  : @article{barczak2019comparative
  :                                ,
 I'm skipping whatever remains of this entry
+Too many commas in name 1 of "Wood DN, Finkelstein A, Hughes JF, Thayer CE and Salesin DH" for entry Wood1997Multiperspective
+while executing---line 1251 of file Settings/ModifiedIEEEtranFa.bst
 
 Done.
-You've used 18 entries,
+You've used 20 entries,
             2350 wiz_defined-function locations,
-            678 strings with 6924 characters,
-and the built_in function-call counts, 2511 in all, are:
-= -- 269
-> -- 31
+            693 strings with 7458 characters,
+and the built_in function-call counts, 2815 in all, are:
+= -- 296
+> -- 40
 < -- 0
-+ -- 22
-- -- 4
-* -- 63
-:= -- 220
-add.period$ -- 18
-call.type$ -- 18
-change.case$ -- 63
++ -- 26
+- -- 6
+* -- 74
+:= -- 254
+add.period$ -- 20
+call.type$ -- 20
+change.case$ -- 68
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 87
-empty$ -- 325
-format.name$ -- 4
-if$ -- 717
+cite$ -- 20
+duplicate$ -- 100
+empty$ -- 360
+format.name$ -- 6
+if$ -- 802
 int.to.chr$ -- 0
-int.to.str$ -- 18
-missing$ -- 66
-newline$ -- 149
-num.names$ -- 3
-pop$ -- 147
+int.to.str$ -- 20
+missing$ -- 76
+newline$ -- 164
+num.names$ -- 4
+pop$ -- 160
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 48
+skip$ -- 53
 stack$ -- 0
 substring$ -- 0
-swap$ -- 3
+swap$ -- 4
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 2
 type$ -- 0
 warning$ -- 0
-while$ -- 3
-width$ -- 20
-write$ -- 192
-(There were 2 error messages)
+while$ -- 4
+width$ -- 22
+write$ -- 213
+(There were 3 error messages)

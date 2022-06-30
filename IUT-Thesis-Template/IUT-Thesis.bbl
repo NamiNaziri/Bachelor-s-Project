@@ -22,6 +22,32 @@ Barczak, A.~M. and Wo{\'z}niak, H., ``Comparative study on game engines'', {\em
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Keyframeberkeley}
+``Keyframe animarion berkeley'',
+\newblock
+  \url{https://cs184.eecs.berkeley.edu/sp19/lecture/17-28/intro-to-animation-kinematics-mo}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Wood1997Multiperspective}
+Wood~DN, Finkelstein~A, H. J. T.~C. and DH, S., ``Multiperspective panoramas
+  for cel animation'', {\em Proceedings of the 24th annual conference on
+  Computer graphics and interactive techniques}, 1997.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{AnimationCellsWikipedia}
+``Animation cells wikipedia'',
+\newblock \url{https://en.wikipedia.org/wiki/File:Animation_cells.png}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{Lasseter1987animation}
 Lasseter, J., ``Principles of traditional animation applied to 3d computer
   animation'', {\em Proceedings of the 14th annual conference on Computer
@@ -98,60 +124,51 @@ Gregory, J.,
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{UnrealEngineArchitecture}
-``Unreal engine architecture'',
+\bibitem{PolygonMeshWikipedia}
+``Polygon mesh wikipedia'',
+\newblock \url{https://en.wikipedia.org/wiki/Polygon_mesh}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{CarSource}
+``Different parts of a car'',
 \newblock
-  \url{https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ProgrammingWithCPP/UnrealArchitecture/}.
+  \url{https://cults3d.com/en/3d-model/game/bugatti-veyron-printable-car-3d-digital-stl-file}.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{UnrealEngineComponents}
-``Unreal engine components'',
+\bibitem{MaterialSource}
+``Different materials'',
+\newblock \url{https://cleverlottery.weebly.com/vray-materials-download.html}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{TextureSource}
+``Different textures'',
+\newblock \url{https://www.pinterest.com/pin/56787645294557990/}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{SkeletalModelSource}
+``Skeletal model'',
+\newblock \url{https://www.fudgeanimation.com/experiments/top-5-rigging-tips/}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{SkinningSource}
+``Skinning'',
 \newblock
-  \url{https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ProgrammingWithCPP/UnrealArchitecture/Actors/Components/}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{GLFW}
-``Glfw'',
-\newblock \url{https://github.com/glfw/glfw}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{GLAD}
-``Glad'',
-\newblock \url{https://github.com/Dav1dde/glad}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{Assimp}
-``Assimp'',
-\newblock
-  \url{https://assimp-docs.readthedocs.io/en/v5.1.0/about/introduction.html}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{LearnOpenGL_Assimp}
-``Assimp class hierarchy'',
-\newblock \url{https://learnopengl.com/Model-Loading/Assimp}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{stb}
-``stb'',
-\newblock \url{https://github.com/nothings/stb}.
+  \url{https://www.pluralsight.com/blog/film-games/understanding-skinning-vital-step-rigging-project}.
 
 \end{LTRbibitems}
 
