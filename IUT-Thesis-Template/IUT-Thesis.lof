@@ -1,14 +1,4 @@
 \nobreakspace {}\relax $\@@underline {\hbox {\beginR \textbf {\fontsize {10pt}{0}\selectfont {\BZarScaleOne عنــوان}}\endR }}\mathsurround \z@ $\relax \hfill \relax $\@@underline {\hbox {\beginR \textbf {\fontsize {10pt}{0}\selectfont {\BZarScaleOne صفحه}}\endR }}\mathsurround \z@ $\relax \vspace {-0.1cm}\par 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2-1}{\ignorespaces فریم‌های کلیدی و درمیان \cite {Keyframeberkeley}\relax }}{7}{figure.caption.8}%
-\contentsline {figure}{\numberline {2-2}{\ignorespaces چشم‌انداز چندمنظوره \cite {Wood1997Multiperspective}\relax }}{7}{figure.caption.9}%
-\contentsline {figure}{\numberline {2-3}{\ignorespaces لایه‌های مختلف\cite {AnimationCellsWikipedia}\relax }}{8}{figure.caption.10}%
-\contentsline {figure}{\numberline {2-4}{\ignorespaces مولفه‌های الگوریتم سایه‌زنی فونگ \cite {PhongShadingWikipedia} \relax }}{13}{figure.caption.11}%
-\contentsline {figure}{\numberline {2-5}{\ignorespaces نمایش یک دلفین به وسیله‌ی مش مثلثی\cite {PolygonMeshWikipedia}\relax }}{14}{figure.caption.12}%
-\contentsline {figure}{\numberline {2-6}{\ignorespaces عناصر یک مش‌چندضلعی\cite {PolygonMeshWikipedia}\relax }}{15}{figure.caption.17}%
-\contentsline {figure}{\numberline {2-7}{\ignorespaces اجزاء مختلف ماشین\cite {CarSource}\relax }}{16}{figure.caption.18}%
-\contentsline {figure}{\numberline {2-8}{\ignorespaces چند نوع ماده‌ی مختلف\cite {MaterialSource}\relax }}{17}{figure.caption.19}%
-\contentsline {figure}{\numberline {2-9}{\ignorespaces چند نوع بافت مختلف\cite {TextureSource}\relax }}{18}{figure.caption.20}%
-\contentsline {figure}{\numberline {2-10}{\ignorespaces در سمت راست مش مدل و سمت چپ اسکلت مدل قابل مشاهده است.\cite {SkeletalModelSource}\relax }}{18}{figure.caption.21}%
-\contentsline {figure}{\numberline {2-11}{\ignorespaces عکس نشان‌دهنده‌ی میزان تعلق رئوس اطراف مفصل شانه است. هرچه راس به مفصل نزدیک تر باشد، تعلق بیشتری به آن دارد(رنگ قرمز تری می‌گیرند).\cite {SkinningSource}\relax }}{19}{figure.caption.22}%
+\contentsline {figure}{\numberline {2-1}{\ignorespaces تصویر \lr {UML} کلاس‌های پایه‌ی موتور‌ بازی‌سازی آنریل\relax }}{9}{figure.caption.8}%
