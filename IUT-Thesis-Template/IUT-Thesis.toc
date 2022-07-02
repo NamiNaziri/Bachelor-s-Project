@@ -12,11 +12,14 @@
 \contentsline {section}{\numberline {1-5}طرح پویانمایی}{5}{section.1.5}%
 \contentsline {section}{\numberline {1-6}گراف رویداد}{5}{section.1.6}%
 \contentsline {section}{\numberline {1-7}گراف پویا‌نمایی}{5}{section.1.7}%
-\contentsline {section}{\numberline {1-8}معماری سیستم پویانمایی آنریل}{6}{section.1.8}%
-\contentsline {chapter}{\numberline {فصل\nobreakspace {}دوم}معماری موتور بازی‌سازی آنریل}{7}{chapter.2}%
-\contentsline {section}{\numberline {2-1}\lr { UObject} \, و \, \lr { Actors}}{7}{section.2.1}%
-\contentsline {section}{\numberline {2-2}\lr {Components}}{8}{section.2.2}%
+\contentsline {section}{\numberline {1-8}گره‌های گراف پویانمایی }{6}{section.1.8}%
+\contentsline {section}{\numberline {1-9}ساختار گره‌های گراف پویانمایی}{6}{section.1.9}%
+\contentsline {section}{\numberline {1-10}جریان اجرا در گراف پویانمایی}{6}{section.1.10}%
+\contentsline {section}{\numberline {1-11}دنباله‌ی پویانمایی}{7}{section.1.11}%
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}دوم}معماری موتور بازی‌سازی آنریل}{9}{chapter.2}%
+\contentsline {section}{\numberline {2-1}\lr { UObject} \, و \, \lr { Actors}}{9}{section.2.1}%
+\contentsline {section}{\numberline {2-2}\lr {Components}}{10}{section.2.2}%
 \setcounter {tocdepth}{-1}
 \setcounter {tocdepth}{2}
-\contentsline {chapter}{پیوست‌ها}{10}{appendix*.10}%
-\contentsline {chapter}{{مراجع}}{11}{appendix*.10}%
+\contentsline {chapter}{پیوست‌ها}{12}{appendix*.14}%
+\contentsline {chapter}{{مراجع}}{13}{appendix*.14}%
