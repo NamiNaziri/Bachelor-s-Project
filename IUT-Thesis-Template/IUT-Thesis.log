@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.23)  2 JUL 2022 23:13
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.23)  10 JUL 2022 21:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1474,7 +1474,7 @@ LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
 LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
 (Font)              scaled to size 13.00003pt on input line 1.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 20.
+(Font)              scaled to size 14.39996pt on input line 9.
 )
 \tf@toc=\write4
 \openout4 = `IUT-Thesis.toc'.
@@ -1633,122 +1633,111 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
 
 
-] (./Chapters/Chapter3.tex
+] (./Chapters/Chapter5.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 8.45001pt on input line 25.
+(Font)              scaled to size 18.72003pt on input line 7.
+LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
+(Font)              scaled to size 18.72003pt on input line 7.
+LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
+(Font)              scaled to size 14.30003pt on input line 11.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 13.19997pt on input line 11.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 13.
 LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 10.40002pt on input line 25.
+(Font)              scaled to size 8.45001pt on input line 15.
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 10.40002pt on input line 15.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 25.
+(Font)              scaled to size 9.59998pt on input line 15.
 LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 25.
+(Font)              scaled to size 6.00064pt on input line 15.
 LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 25.
+(Font)              scaled to size 5.00053pt on input line 15.
 LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 25.
+(Font)              scaled to size 5.99936pt on input line 15.
 LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 25.
+(Font)              scaled to size 4.99947pt on input line 15.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 25.
+(Font)              scaled to size 7.19998pt on input line 15.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 7.79997pt on input line 25.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 32.
+(Font)              scaled to size 7.79997pt on input line 15.
 [2
 
 
 ]
+File: Figures/Ch5/assimp_structure.png Graphic file (type bmp)
+<Figures/Ch5/assimp_structure.png>
 LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 18.72003pt on input line 54.
-LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
-(Font)              scaled to size 18.72003pt on input line 54.
+(Font)              scaled to size 14.30003pt on input line 115.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 13.19997pt on input line 115.
 LaTeX Font Info:    Font shape `TU/BZar(0)/m/sl' in size <10> not available
-(Font)              Font shape `TU/BZar(0)/m/it' tried instead on input line 86.
+(Font)              Font shape `TU/BZar(0)/m/it' tried instead on input line 117.
 LaTeX Font Info:    Font shape `TU/BZar(0)/m/it' will be
-(Font)              scaled to size 13.00003pt on input line 86.
+(Font)              scaled to size 13.00003pt on input line 117.
 
 Overfull \vbox (7.10939pt too high) has occurred while \output is active []
 
  [3]
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-
 Overfull \vbox (7.0713pt too high) has occurred while \output is active []
 
  [4]
+
+LaTeX Warning: Reference `PhongShading' on page 5 undefined on input line 198.
+
+
 Overfull \vbox (7.05861pt too high) has occurred while \output is active []
 
  [5]
-Overfull \hbox (5.40195pt too wide) in paragraph at lines 202--216
-[][]\TU/BZar(0)/m/n/10 گراف پویا‌نمایی با ارزیابی گره‌های موجود در گراف، عمل می‌کند. بعضی از گره‌های موجود در گراف، عملیات‌های[]
- []
-
-File: Figures/Ch3/AnimNodeStructure.png Graphic file (type bmp)
-<Figures/Ch3/AnimNodeStructure.png>
-LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 14.30003pt on input line 234.
-File: Figures/Ch3/DetailsPanel.png Graphic file (type bmp)
-<Figures/Ch3/DetailsPanel.png>
-
 Overfull \vbox (7.10939pt too high) has occurred while \output is active []
 
  [6]
-File: Figures/Ch3/ExecFlow.png Graphic file (type bmp)
-<Figures/Ch3/ExecFlow.png>
+File: Figures/Ch5/SpecularLight_1.png Graphic file (type bmp)
+<Figures/Ch5/SpecularLight_1.png>
 
 Overfull \vbox (6.89357pt too high) has occurred while \output is active []
 
  [7]
-File: Figures/Ch3/AnimationSequence.png Graphic file (type bmp)
-<Figures/Ch3/AnimationSequence.png>
-) (./Chapters/Chapter4.tex
+File: Figures/Ch5/SpecularLight_2.png Graphic file (type bmp)
+<Figures/Ch5/SpecularLight_2.png>
+
 Overfull \vbox (6.88722pt too high) has occurred while \output is active []
 
  [8]
-فصل 2.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 4.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.16713pt
-(hyperref)                removed on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.16713pt
-(hyperref)                removed on input line 4.
-
-[9
-
-]
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no • (U+2022) in font B Zar/OT:language=dflt;script=arab;mapping=persian-tex-text;!
-File: Figures/Ch2/UnrealEngineBasicClassesUML.png Graphic file (type bmp)
-<Figures/Ch2/UnrealEngineBasicClassesUML.png>
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 13.19997pt on input line 70.
-)
+(Font)              scaled to size 10.79997pt on input line 355.
+
+Overfull \vbox (7.11574pt too high) has occurred while \output is active []
+
+ [9]
+File: Figures/Ch5/LocomotionStateMachine.png Graphic file (type bmp)
+<Figures/Ch5/LocomotionStateMachine.png>
+
+Overfull \hbox (28.41165pt too wide) in paragraph at lines 405--419
+[][]\TU/BZar(0)/m/n/10 برای پیا‌ده‌سازی ماشین حالت متناهی، این سیستم به سه کلاس کلی شکسته‌شده‌است. کلاس []\TU/TimesNewRoman(0)/m/n/10 AnimationStateMachine[][]
+ []
+
+
+Overfull \hbox (4.79617pt too wide) in paragraph at lines 405--419
+[]\TU/BZar(0)/m/n/10 که وظیفه‌ی مدیریت حالت‌ها و انتقال از یک حالت به حالت دیگری را دارد. کلاس []\TU/TimesNewRoman(0)/m/n/10 AnimationState[] \TU/BZar(0)/m/n/10 که نشان‌دهنده‌ی[]
+ []
+
+
 Overfull \vbox (7.02052pt too high) has occurred while \output is active []
 
  [10]
 Overfull \vbox (7.02052pt too high) has occurred while \output is active []
 
- [11] [12
+ [11])
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
+
+ [12] [13
 
 
 ] (./IUT-Thesis.bbl
@@ -1772,31 +1761,11 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.14006> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.60007> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--20
-[][]\TU/TimesNewRoman(0)/m/n/11 “Unreal engine animation”,  [][][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][][][][] [] [][][] [] [] [] [] [] [][][][][][] []$[][]
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
+[][]\TU/TimesNewRoman(0)/m/n/11 “Assimp”,  [][][]$[][][][][] [] [] [] [][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][] [] [][] [] [][] [] [] [] [] [] [][][][][] []$[][]
  []
 
-
-Underfull \hbox (badness 1565) in paragraph at lines 26--29
-[][]\TU/TimesNewRoman(0)/m/n/11 “Unreal engine event graph”,  [][][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][][][][] [] [][][] [] [] [] [][] [] [][][][][][] []$[][]
- []
-
-
-Underfull \hbox (badness 2409) in paragraph at lines 44--47
-[][]\TU/TimesNewRoman(0)/m/n/11 “Unreal engine architecture”,  [][][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][][][][] [] [][][] [] [] [] [][] [] [][][][][][] []$[][]
- []
-
-
-Underfull \hbox (badness 2050) in paragraph at lines 53--56
-[][]\TU/TimesNewRoman(0)/m/n/11 “Unreal engine components”,  [][][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][][][][] [] [][][] [] [] [] [][] [] [][][][][][] []$[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--56
-[][]$[][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][] [] [][][][][][] []$[][]
- []
-
-) [13
+) [14
 
 
 ]
@@ -1824,7 +1793,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--162
 [][]
  []
 
-[14
+[15
 
 ]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1879,7 +1848,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
- [15
+ [16
 
 
 ]
@@ -1895,16 +1864,19 @@ See the caption package documentation for explanation.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `IUT-Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 64B8D5CEFEF33E51905B9C0F579A0C81;4014.
+(rerunfilecheck)             Checksum: CEBB237D5A4DA745FC760F218D09676E;4622.
  ) 
 Here is how much of TeX's memory you used:
- 24897 strings out of 476151
- 464625 string characters out of 5812645
- 1037029 words of memory out of 5000000
- 45060 multiletter control sequences out of 15000+600000
- 514786 words of font info for 265 fonts, out of 8000000 for 9000
+ 25068 strings out of 476151
+ 466736 string characters out of 5812645
+ 1053029 words of memory out of 5000000
+ 45232 multiletter control sequences out of 15000+600000
+ 514810 words of font info for 268 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,9n,128p,1398b,679s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,9n,128p,1398b,1846s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on IUT-Thesis.xdv (24 pages, 259280 bytes).
+Output written on IUT-Thesis.xdv (25 pages, 299348 bytes).

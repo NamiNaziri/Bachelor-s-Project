@@ -5,54 +5,58 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{UnrealEngineWikiPedia}
-``Unreal engine wikipedia'',
-\newblock \url{https://en.wikipedia.org/wiki/Unreal_Engine}.
+\bibitem{KhronosUsingOpenGL}
+``Using opengl'',
+\newblock \url{https://www.khronos.org/opengl/wiki/Getting_Started}.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{UnrealEngineAnimation}
-``Unreal engine animation'',
-\newblock
-  \url{https://docs.unrealengine.com/5.0/en-US/animating-characters-and-objects-in-unreal-engine/}.
+\bibitem{LearnOpenGL_GettingStarted}
+``Opengl state macine'',
+\newblock \url{https://learnopengl.com/Getting-started/OpenGL}.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{EventGraphUnrealEngine}
-``Unreal engine event graph'',
-\newblock
-  \url{https://docs.unrealengine.com/4.27/en-US/AnimatingObjects/SkeletalMeshAnimation/AnimBlueprints/EventGraph/}.
+\bibitem{GLFW}
+``Glfw'',
+\newblock \url{https://github.com/glfw/glfw}.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{AnimationGraphUnrealEngine}
-``Unreal engine animation graph'',
-\newblock
-  \url{https://docs.unrealengine.com/4.27/en-US/AnimatingObjects/SkeletalMeshAnimation/AnimBlueprints/AnimGraph/}.
+\bibitem{GLAD}
+``Glad'',
+\newblock \url{https://github.com/Dav1dde/glad}.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{UnrealEngineArchitecture}
-``Unreal engine architecture'',
+\bibitem{Assimp}
+``Assimp'',
 \newblock
-  \url{https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ProgrammingWithCPP/UnrealArchitecture/}.
+  \url{https://assimp-docs.readthedocs.io/en/v5.1.0/about/introduction.html}.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{UnrealEngineComponents}
-``Unreal engine components'',
-\newblock
-  \url{https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ProgrammingWithCPP/UnrealArchitecture/Actors/Components/}.
+\bibitem{LearnOpenGL_Assimp}
+``Assimp class hierarchy'',
+\newblock \url{https://learnopengl.com/Model-Loading/Assimp}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{stb}
+``stb'',
+\newblock \url{https://github.com/nothings/stb}.
 
 \end{LTRbibitems}
 
