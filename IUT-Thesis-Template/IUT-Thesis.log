@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.23)  10 JUL 2022 21:35
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.23)  11 JUL 2022 16:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1473,14 +1473,393 @@ LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
  (./IUT-Thesis.toc
 LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
 (Font)              scaled to size 13.00003pt on input line 1.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 9.00096pt on input line 14.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 14.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 8.99904pt on input line 14.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 11.70003pt on input line 14.
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 8.45001pt on input line 14.
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 10.40002pt on input line 14.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 9.
-)
+(Font)              scaled to size 9.59998pt on input line 14.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 14.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 14.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 14.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 14.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 7.79997pt on input line 14.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 14.39996pt on input line 19.
+ [6
+
+
+] [7])
 \tf@toc=\write4
 \openout4 = `IUT-Thesis.toc'.
 
- [6
+ [8] (./Chapters/AbstractFa.tex)
+LaTeX Font Info:    Font shape `TU/BZar(1)/m/n' will be
+(Font)              scaled to size 11.0pt on input line 126.
+LaTeX Font Info:    Font shape `TU/BZar(1)/b/n' will be
+(Font)              scaled to size 11.0pt on input line 126.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 13.19997pt on input line 126.
+ [1
 
+
+
+] (./Chapters/Chapter1.tex
+فصل 1.
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 16.90004pt on input line 1.
+LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
+(Font)              scaled to size 16.90004pt on input line 1.
+LaTeX Font Info:    Font shape `TU/BZar(1)/b/n' will be
+(Font)              scaled to size 13.0pt on input line 1.
+[2
+
+
+]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 55.
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/sl' in size <10> not available
+(Font)              Font shape `TU/BZar(0)/m/it' tried instead on input line 82.
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/it' will be
+(Font)              scaled to size 13.00003pt on input line 82.
+
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [3]) (./Chapters/Chapter2.tex
+Overfull \vbox (7.0713pt too high) has occurred while \output is active []
+
+ [4]
+فصل 2.
+
+Overfull \hbox (3.02167pt too wide) in paragraph at lines 9--25
+[]\TU/BZar(0)/m/n/10 کامپیوتری پیدا کرده‌اند. برای تولید بازی‌های کامپیوتری از موتور‌های بازی‌سازی استفاده می‌شود. موتور‌های بازی‌سازی[]
+ []
+
+[5
+
+] (./Chapters/Chapter2_TypesOfAnimation.tex
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 18.72003pt on input line 1.
+LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
+(Font)              scaled to size 18.72003pt on input line 1.
+LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
+(Font)              scaled to size 14.30003pt on input line 12.
+File: Figures/Ch1/KeyframeAnimation.png Graphic file (type bmp)
+<Figures/Ch1/KeyframeAnimation.png>
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 14.30003pt on input line 20.
+
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [6]
+File: Figures/Ch1/Panorama.png Graphic file (type bmp)
+<Figures/Ch1/Panorama.png>
+File: Figures/Ch1/DifferentLayers.png Graphic file (type bmp)
+<Figures/Ch1/DifferentLayers.png>
+
+Overfull \vbox (6.89357pt too high) has occurred while \output is active []
+
+ [7]
+Overfull \vbox (6.88722pt too high) has occurred while \output is active []
+
+ [8]
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 104.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 11.00117pt on input line 104.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 8.14091pt on input line 104.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 6.60077pt on input line 104.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 10.99883pt on input line 104.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 8.13919pt on input line 104.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 6.59935pt on input line 104.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 104.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.14006> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 104.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.60007> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 104.
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 10.58209pt on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 104.
+
+) (./Chapters/Chapter2_GameEngine.tex
+Overfull \vbox (7.11574pt too high) has occurred while \output is active []
+
+ [9]
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
+
+ [10]) (./Chapters/Chapter2_ComputerGraphics.tex
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
+
+ [11]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 13.19997pt on input line 29.
+
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
+
+ [12]
+File: Figures/Ch2/Phong_components.png Graphic file (type bmp)
+<Figures/Ch2/Phong_components.png>
+)
+Overfull \hbox (7.86906pt too wide) in paragraph at lines 53--59
+[][]\TU/BZar(0)/m/n/10 در پویانمایی اسکلتی از مدل‌های اسکلتی استفاده می‌شود. هر مدل اسکلتی از دو بخش مدل و اسکلت تشکیل‌شده‌است.[]
+ []
+
+
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [13]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 61.
+
+File: Figures/Ch2/Dolphin.png Graphic file (type bmp)
+<Figures/Ch2/Dolphin.png>
+
+Overfull \vbox (7.0713pt too high) has occurred while \output is active []
+
+ [14]
+File: Figures/Ch2/Mesh.png Graphic file (type bmp)
+<Figures/Ch2/Mesh.png>
+LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
+(Font)              scaled to size 7.80002pt on input line 122.
+
+Overfull \vbox (7.05861pt too high) has occurred while \output is active []
+
+ [15]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 130.
+
+File: Figures/Ch2/Car.png Graphic file (type bmp)
+<Figures/Ch2/Car.png>
+
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [16]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 149.
+
+File: Figures/Ch2/Material.png Graphic file (type bmp)
+<Figures/Ch2/Material.png>
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 171.
+
+File: Figures/Ch2/texture.png Graphic file (type bmp)
+<Figures/Ch2/texture.png>
+
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
+
+ [17]
+File: Figures/Ch2/SkeletalModel.png Graphic file (type bmp)
+<Figures/Ch2/SkeletalModel.png>
+
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
+
+ [18]
+File: Figures/Ch2/Skinning.png Graphic file (type bmp)
+<Figures/Ch2/Skinning.png>
+
+Overfull \vbox (7.11574pt too high) has occurred while \output is active []
+
+ [19]
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
+
+ [20]) (./Chapters/Chapter3.tex
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
+
+ [21]
+فصل 3.
+[22
+
+]
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [23]
+Overfull \vbox (7.0713pt too high) has occurred while \output is active []
+
+ [24]
+File: Figures/Ch3/EventGraph.png Graphic file (type bmp)
+<Figures/Ch3/EventGraph.png>
+File: Figures/Ch3/AnimationGraph.png Graphic file (type bmp)
+<Figures/Ch3/AnimationGraph.png>
+
+Overfull \vbox (7.05861pt too high) has occurred while \output is active []
+
+ [25]
+Overfull \hbox (5.40195pt too wide) in paragraph at lines 223--237
+[][]\TU/BZar(0)/m/n/10 گراف پویا‌نمایی با ارزیابی گره‌های موجود در گراف، عمل می‌کند. بعضی از گره‌های موجود در گراف، عملیات‌های[]
+ []
+
+
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [26]
+File: Figures/Ch3/AnimNodeStructure.png Graphic file (type bmp)
+<Figures/Ch3/AnimNodeStructure.png>
+File: Figures/Ch3/DetailsPanel.png Graphic file (type bmp)
+<Figures/Ch3/DetailsPanel.png>
+
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
+
+ [27]
+File: Figures/Ch3/ExecFlow.png Graphic file (type bmp)
+<Figures/Ch3/ExecFlow.png>
+
+Overfull \vbox (7.02052pt too high) has occurred while \output is active []
+
+ [28]
+File: Figures/Ch3/AnimationSequence.png Graphic file (type bmp)
+<Figures/Ch3/AnimationSequence.png>
+
+Overfull \vbox (7.11574pt too high) has occurred while \output is active []
+
+ [29]
+File: Figures/Ch3/BlendSpace.png Graphic file (type bmp)
+<Figures/Ch3/BlendSpace.png>
+
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [30]
+File: Figures/Ch3/BlendNode.png Graphic file (type bmp)
+<Figures/Ch3/BlendNode.png>
+File: Figures/Ch3/EnumBlendNode_WithArrow.png Graphic file (type bmp)
+<Figures/Ch3/EnumBlendNode_WithArrow.png>
+
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [31]
+File: Figures/Ch3/LayeredBlendPerBone_WithArrow.png Graphic file (type bmp)
+<Figures/Ch3/LayeredBlendPerBone_WithArrow.png>
+
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [32]
+File: Figures/Ch3/ChnageSpaceNodes.png Graphic file (type bmp)
+<Figures/Ch3/ChnageSpaceNodes.png>
+File: Figures/Ch3/AnimationStateMachine1.png Graphic file (type bmp)
+<Figures/Ch3/AnimationStateMachine1.png>
+File: Figures/Ch3/AnimationStateMachine3.png Graphic file (type bmp)
+<Figures/Ch3/AnimationStateMachine3.png>
+) (./Chapters/Chapter5.tex
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [33]
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [34]
+فصل 4.
+
+Overfull \hbox (0.60129pt too wide) in paragraph at lines 5--12
+[][]\TU/BZar(0)/m/n/10 برای پیاده‌سازی سیستم پویانمایی از []\TU/TimesNewRoman(0)/m/n/10 OpenGL[] \TU/BZar(0)/m/n/10 که یک واسط برنامه‌نویسی کاربردی برای دسترسی به توابع گرافیکی[]
+ []
+
+[35
+
+]
+File: Figures/Ch5/assimp_structure.png Graphic file (type bmp)
+<Figures/Ch5/assimp_structure.png>
+
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [36]
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [37]
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [38]
+File: Figures/Ch5/DiffuseLight.png Graphic file (type bmp)
+<Figures/Ch5/DiffuseLight.png>
+
+Overfull \vbox (7.11574pt too high) has occurred while \output is active []
+
+ [39]
+File: Figures/Ch5/SpecularLight_1.png Graphic file (type bmp)
+<Figures/Ch5/SpecularLight_1.png>
+
+Overfull \vbox (7.0713pt too high) has occurred while \output is active []
+
+ [40]
+File: Figures/Ch5/SpecularLight_2.png Graphic file (type bmp)
+<Figures/Ch5/SpecularLight_2.png>
+
+Overfull \vbox (7.0713pt too high) has occurred while \output is active []
+
+ [41]
+Overfull \vbox (7.0713pt too high) has occurred while \output is active []
+
+ [42]
+File: Figures/Ch5/AnimationClip.png Graphic file (type bmp)
+<Figures/Ch5/AnimationClip.png>
+
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [43]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 10.79997pt on input line 391.
+File: Figures/Ch5/LocomotionStateMachine.png Graphic file (type bmp)
+<Figures/Ch5/LocomotionStateMachine.png>
+
+Overfull \hbox (28.41165pt too wide) in paragraph at lines 443--457
+[][]\TU/BZar(0)/m/n/10 برای پیا‌ده‌سازی ماشین حالت متناهی، این سیستم به سه کلاس کلی شکسته‌شده‌است. کلاس []\TU/TimesNewRoman(0)/m/n/10 AnimationStateMachine[][]
+ []
+
+
+Overfull \hbox (4.79617pt too wide) in paragraph at lines 443--457
+[]\TU/BZar(0)/m/n/10 که وظیفه‌ی مدیریت حالت‌ها و انتقال از یک حالت به حالت دیگری را دارد. کلاس []\TU/TimesNewRoman(0)/m/n/10 AnimationState[] \TU/BZar(0)/m/n/10 که نشان‌دهنده‌ی[]
+ []
+
+
+Overfull \vbox (7.0713pt too high) has occurred while \output is active []
+
+ [44]
+Overfull \vbox (7.0713pt too high) has occurred while \output is active []
+
+ [45]) (./Chapters/Summary.tex
+Overfull \vbox (7.10939pt too high) has occurred while \output is active []
+
+ [46]
+فصل 5.
+) (./Chapters/FutureWork.tex [47
+
+]
+فصل 6.
+) [48
 
 ]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1519,281 +1898,100 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 \tf@lof=\write5
 \openout5 = `IUT-Thesis.lof'.
 
- [7
-
-
-
-]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: xetex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(71.13188pt, 441.01773pt, 85.35826pt)
-* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=441.01773pt
-* \textheight=674.33032pt
-* \oddsidemargin=-1.1381pt
-* \evensidemargin=-1.1381pt
-* \topmargin=-15.36447pt
-* \headheight=0.0pt
-* \headsep=28.45274pt
-* \topskip=10.0pt
-* \footskip=56.9055pt
-* \marginparwidth=61.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
- (./IUT-Thesis.lot)
-\tf@lot=\write6
-\openout6 = `IUT-Thesis.lot'.
-
- [8
-
-
-
-]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: xetex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(71.13188pt, 441.01773pt, 85.35826pt)
-* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=441.01773pt
-* \textheight=674.33032pt
-* \oddsidemargin=-1.1381pt
-* \evensidemargin=-1.1381pt
-* \topmargin=-15.36447pt
-* \headheight=0.0pt
-* \headsep=28.45274pt
-* \topskip=10.0pt
-* \footskip=56.9055pt
-* \marginparwidth=61.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
- [9
-
-
-
-]
-LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 16.90004pt on input line 116.
-LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
-(Font)              scaled to size 16.90004pt on input line 116.
-LaTeX Font Info:    Font shape `TU/BZar(1)/b/n' will be
-(Font)              scaled to size 13.0pt on input line 116.
- (./IUT-Thesis.loa)
-\tf@loa=\write7
-\openout7 = `IUT-Thesis.loa'.
-
- [10
-
-]
-LaTeX Font Info:    Font shape `TU/BZar(1)/m/n' will be
-(Font)              scaled to size 11.0pt on input line 126.
-LaTeX Font Info:    Font shape `TU/BZar(1)/b/n' will be
-(Font)              scaled to size 11.0pt on input line 126.
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
-[][]
- []
-
-[1
-
-
-
-] (./Chapters/Chapter5.tex
-فصل 1.
-LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 18.72003pt on input line 7.
-LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
-(Font)              scaled to size 18.72003pt on input line 7.
-LaTeX Font Info:    Font shape `TU/BZar(0)/b/n' will be
-(Font)              scaled to size 14.30003pt on input line 11.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 13.19997pt on input line 11.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 13.
-LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 8.45001pt on input line 15.
-LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 10.40002pt on input line 15.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 15.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 15.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 15.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 15.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 15.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 15.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 7.79997pt on input line 15.
-[2
-
-
-]
-File: Figures/Ch5/assimp_structure.png Graphic file (type bmp)
-<Figures/Ch5/assimp_structure.png>
-LaTeX Font Info:    Font shape `TU/BZar(0)/m/n' will be
-(Font)              scaled to size 14.30003pt on input line 115.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 13.19997pt on input line 115.
-LaTeX Font Info:    Font shape `TU/BZar(0)/m/sl' in size <10> not available
-(Font)              Font shape `TU/BZar(0)/m/it' tried instead on input line 117.
-LaTeX Font Info:    Font shape `TU/BZar(0)/m/it' will be
-(Font)              scaled to size 13.00003pt on input line 117.
-
-Overfull \vbox (7.10939pt too high) has occurred while \output is active []
-
- [3]
-Overfull \vbox (7.0713pt too high) has occurred while \output is active []
-
- [4]
-
-LaTeX Warning: Reference `PhongShading' on page 5 undefined on input line 198.
-
-
-Overfull \vbox (7.05861pt too high) has occurred while \output is active []
-
- [5]
-Overfull \vbox (7.10939pt too high) has occurred while \output is active []
-
- [6]
-File: Figures/Ch5/SpecularLight_1.png Graphic file (type bmp)
-<Figures/Ch5/SpecularLight_1.png>
-
-Overfull \vbox (6.89357pt too high) has occurred while \output is active []
-
- [7]
-File: Figures/Ch5/SpecularLight_2.png Graphic file (type bmp)
-<Figures/Ch5/SpecularLight_2.png>
-
-Overfull \vbox (6.88722pt too high) has occurred while \output is active []
-
- [8]
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 10.79997pt on input line 355.
-
-Overfull \vbox (7.11574pt too high) has occurred while \output is active []
-
- [9]
-File: Figures/Ch5/LocomotionStateMachine.png Graphic file (type bmp)
-<Figures/Ch5/LocomotionStateMachine.png>
-
-Overfull \hbox (28.41165pt too wide) in paragraph at lines 405--419
-[][]\TU/BZar(0)/m/n/10 برای پیا‌ده‌سازی ماشین حالت متناهی، این سیستم به سه کلاس کلی شکسته‌شده‌است. کلاس []\TU/TimesNewRoman(0)/m/n/10 AnimationStateMachine[][]
- []
-
-
-Overfull \hbox (4.79617pt too wide) in paragraph at lines 405--419
-[]\TU/BZar(0)/m/n/10 که وظیفه‌ی مدیریت حالت‌ها و انتقال از یک حالت به حالت دیگری را دارد. کلاس []\TU/TimesNewRoman(0)/m/n/10 AnimationState[] \TU/BZar(0)/m/n/10 که نشان‌دهنده‌ی[]
- []
-
-
-Overfull \vbox (7.02052pt too high) has occurred while \output is active []
-
- [10]
-Overfull \vbox (7.02052pt too high) has occurred while \output is active []
-
- [11])
-Overfull \vbox (7.02052pt too high) has occurred while \output is active []
-
- [12] [13
+ [49
 
 
 ] (./IUT-Thesis.bbl
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 10.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 11.00117pt on input line 10.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 8.14091pt on input line 10.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 6.60077pt on input line 10.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 10.99883pt on input line 10.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 8.13919pt on input line 10.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 6.59935pt on input line 10.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.14006> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.60007> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
+(Font)              scaled to size 13.19997pt on input line 17.
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--44
-[][]\TU/TimesNewRoman(0)/m/n/11 “Assimp”,  [][][]$[][][][][] [] [] [] [][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][] [] [][] [] [][] [] [] [] [] [] [][][][][] []$[][]
+Underfull \hbox (badness 2837) in paragraph at lines 26--29
+[][]\TU/TimesNewRoman(0)/m/n/11 “Keyframe animarion berkeley”,  [][][]$[][][][][] [] [] [] [][][][][] [] [][][][] [] [][][][][][][][] [] [][][] [] [][][][] []$[][]
  []
 
-) [14
+
+Underfull \hbox (badness 6675) in paragraph at lines 78--81
+[][]\TU/TimesNewRoman(0)/m/n/11 “Unreal engine blueprint”,  [][][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][][][][] [] [][][] [] [] [] [][] [] [][][][][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+[][]\TU/TimesNewRoman(0)/m/n/11 “Phone shading lernopengl”,  [][][]$[][][][][] [] [] [] [][][][][][][][][][][] [] [][][] [] [][][][][][][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
+[][]\TU/TimesNewRoman(0)/m/n/11 “Phong shading wikipedia”,  [][][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--139
+[][]\TU/TimesNewRoman(0)/m/n/11 “Different parts of a car”,  [][][]$[][][][][] [] [] [] [][][][][][][] [] [][][] [] [][] [] [][][][][][][][][] [] [][][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+[][]\TU/TimesNewRoman(0)/m/n/11 “Different materials”,  [][][]$[][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][][][][] [] [][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+[][]\TU/TimesNewRoman(0)/m/n/11 “Skeletal model”,  [][][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
+[][]\TU/TimesNewRoman(0)/m/n/11 “Skinning”,  [][][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][][] [] [][][][] [] [][][][][][][][][][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 178--181
+[][]\TU/TimesNewRoman(0)/m/n/11 “Unreal engine animation”,  [][][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][][][][][] [] [][][] [] [] [] [] [] [][][][][][] []$[][]
+ []
+
+[50
+
 
 
 ]
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 11.0pt on input line 162.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 14.0pt on input line 162.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 14.0pt on input line 162.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 162.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 11.0pt on input line 162.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 162.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 162.
-
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
-[][]
+Underfull \hbox (badness 6236) in paragraph at lines 214--217
+[][]\TU/TimesNewRoman(0)/m/n/11 “Unreal engine anim graph skeletal controls node”,  [][][]$[][][][][] [] [] [] [][][][] []$[][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
-[][]
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+[][]$[][][][][][][][][][][][] [] [][][] [] [] [] [][] [] [][][][][][] [] [][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][] []$[][]
  []
 
-[15
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--226
+[][]$[][][] [] [] [] [][] [] [][][][][][] [] [][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][] []$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--251
+[][]\TU/TimesNewRoman(0)/m/n/11 “Assimp”,  [][][]$[][][][][] [] [] [] [][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][] [] [][] [] [][] [] [] [] [] [] [][][][][] []$[][]
+ []
+
+) (./Chapters/AbstractEn.tex)
+Overfull \vbox (7.05861pt too high) has occurred while \output is active []
+
+ [51]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
+(Font)              scaled to size 11.0pt on input line 166.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
+(Font)              scaled to size 14.0pt on input line 166.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
+(Font)              scaled to size 14.0pt on input line 166.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 166.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
+(Font)              scaled to size 11.0pt on input line 166.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 166.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 166.
+ [52
 
 ]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1831,24 +2029,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--162
 File: Settings/IUT_Logo.pdf Graphic file (type pdf)
 <use Settings/IUT_Logo.pdf>
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 16.0pt on input line 174.
+(Font)              scaled to size 16.0pt on input line 178.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 16.0pt on input line 174.
+(Font)              scaled to size 16.0pt on input line 178.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 174.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 174.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 174.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 174.
-LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 174.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
- [16
+(Font)              scaled to size 12.0pt on input line 178.
+ [53
 
 
 ]
@@ -1864,19 +2050,16 @@ See the caption package documentation for explanation.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `IUT-Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: CEBB237D5A4DA745FC760F218D09676E;4622.
+(rerunfilecheck)             Checksum: EF5465C32325A267EA8F2BE5334AF07A;15032.
  ) 
 Here is how much of TeX's memory you used:
- 25068 strings out of 476151
- 466736 string characters out of 5812645
- 1053029 words of memory out of 5000000
- 45232 multiletter control sequences out of 15000+600000
- 514810 words of font info for 268 fonts, out of 8000000 for 9000
+ 25450 strings out of 476151
+ 477198 string characters out of 5812645
+ 1069029 words of memory out of 5000000
+ 45559 multiletter control sequences out of 15000+600000
+ 514842 words of font info for 272 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,9n,128p,1398b,1846s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,8n,128p,1398b,1172s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on IUT-Thesis.xdv (25 pages, 299348 bytes).
+Output written on IUT-Thesis.xdv (60 pages, 1097936 bytes).

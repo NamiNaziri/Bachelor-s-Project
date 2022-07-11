@@ -93,10 +93,10 @@
 
 % ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Signature - Farsi ▓▓▓▓▒▒▒▒▒▒░░░░░░░
 \Prefix{آقای} %\Prefix{خانم}
-\DateFa{1395/10/20}
-\FirstExaminerFa{دکتر داور اول} % Optional (Remove It If You Don't Have)
-\SecondExaminerFa{دکتر داور دوم} % Optional (Remove It If You Don't Have)
-\DeanOfDepartmentFa{دکتر تحصیلات تکمیلی دانشکده}
+\DateFa{1401/04/29}
+\FirstExaminerFa{دکتر زینب زالی} % Optional (Remove It If You Don't Have)
+%\SecondExaminerFa{دکتر داور دوم} % Optional (Remove It If You Don't Have)
+%\DeanOfDepartmentFa{دکتر تحصیلات تکمیلی دانشکده}
 
 \MakeFarsiSignaturePage%
 
@@ -111,9 +111,9 @@
 
 % ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Table of Contents/Figures/Tables ▓▓▓▓▒▒▒▒▒▒░░░░░░░
 \MakeTableOfContents%
-\MakeListOfFigures%
-\MakeListOfTables%
-\MakeListOfAlgorithms% for test
+
+%\MakeListOfTables%
+%\MakeListOfAlgorithms% for test
 
 % ----------------------------------------------------------------------------
 \clearpage
@@ -122,25 +122,29 @@
 \setcounter{page}{1}
 
 % ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Abstract - Farsi ▓▓▓▓▒▒▒▒▒▒░░░░░░░
-%todo\input{Chapters/AbstractFa}%
+\input{Chapters/AbstractFa}%
 \MakeFarsiAbstract%
 
 % ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Chapters ▓▓▓▓▒▒▒▒▒▒░░░░░░░
 \clearpage
 \baselineskip=0.9cm
 
-%\input{Chapters/Chapter1}
-%\input{Chapters/Chapter2}
-%\input{Chapters/Chapter3}
+\input{Chapters/Chapter1}
+\input{Chapters/Chapter2}
+\input{Chapters/Chapter3}
 %\input{Chapters/Chapter4_temp.tex}
 %\input{Chapters/Chapter4}
 \input{Chapters/Chapter5}
+\input{Chapters/Summary}
+\input{Chapters/FutureWork}
 %\input{Chapters/Chaptertemplate}
 
 
 % ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Appendices ▓▓▓▓▒▒▒▒▒▒░░░░░░░
-\MakeAppendices%
+%\MakeAppendices%
 %\input{Chapters/Appendices}
+
+\MakeListOfFigures%
 
 % ░░░░░░░▒▒▒▒▒▒▓▓▓▓ References ▓▓▓▓▒▒▒▒▒▒░░░░░░░
 \MakeReferences%
@@ -152,24 +156,24 @@
 \DegreeEn{Bachelor of Science}%\DegreeEn{Master of Science (MSc)} % Or \DegreeEn{Doctor of Philosophy (PhD)}
 \YourFullnameEn{Nami Naziri}
 \YourEmailAddress{nami.naziri@yahoo.com}
-\DateEn{May 22, 2022}
+\DateEn{July 20, 2022}
 \FirstSupervisorEn{Maziar Palhang, Assoc. Prof.}
 \FirstSupervisorEmailAddress{palhang@cc.iut.ac.ir}
 \TitleEn{Analysis of the animation graph in Unreal Engine and \\[0.2cm] implementation of an animation system using OpenGL }
 % اگر عنوان رساله طولانی بود، در دو خط به صورت نشان داده شده تقسیم شود.
 
-%todo\input{Chapters/AbstractEn}%
+\input{Chapters/AbstractEn}%
 \MakeEnglishAbstract%
 
 % ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Signature - English ▓▓▓▓▒▒▒▒▒▒░░░░░░░
-%\FirstAdvisorEn{First Advisor, Assoc. Prof.}
+%\FirstAdvisorEn{Maziar Palhang, Assoc. Prof.}
 %\SecondAdvisorEn{Second Advisor, Assist. Prof.} % Optional (Remove It If You Don't Have)
-\FirstExaminerEn{First Examiner, Assoc. Prof.} % Optional (Remove It If You Don't Have)
-\SecondExaminerEn{First Examiner, Assist. Prof.} % Optional (Remove It If You Don't Have)
+\FirstExaminerEn{Zeinab Zali, Assist. Prof.} % Optional (Remove It If You Don't Have)
+%\SecondExaminerEn{First Examiner, Assist. Prof.} % Optional (Remove It If You Don't Have)
 %\ThirdExaminerEn{Third Examiner, Prof.} % Optional (Remove It If You Don't Have)
 %\FourthExaminerEn{Fourth Examiner, Prof.} % Optional (Remove It If You Don't Have)
 %\FifthExaminerEn{Fifth Examiner, Prof.} % Optional (Remove It If You Don't Have)
-\DeanOfDepartmentEn{Reza Tikani, Assist. Prof.}
+\DeanOfDepartmentEn{Ahmadreza Tabesh, Assoc. Prof.}
 
 \MakeEnglishSignaturePage%
 

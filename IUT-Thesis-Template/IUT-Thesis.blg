@@ -8,47 +8,53 @@ I was expecting a `{' or a `('---line 297 of file References.bib
  : @MISC{AnimationWikipedia,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+Repeated entry---line 405 of file References.bib
+ : @article{barczak2019comparative
+ :                                ,
+I'm skipping whatever remains of this entry
+Too many commas in name 1 of "Wood DN, Finkelstein A, Hughes JF, Thayer CE and Salesin DH" for entry Wood1997Multiperspective
+while executing---line 1251 of file Settings/ModifiedIEEEtranFa.bst
 
 Done.
-You've used 7 entries,
+You've used 31 entries,
             2350 wiz_defined-function locations,
-            627 strings with 5267 characters,
-and the built_in function-call counts, 946 in all, are:
-= -- 105
-> -- 7
+            732 strings with 8920 characters,
+and the built_in function-call counts, 4245 in all, are:
+= -- 461
+> -- 51
 < -- 0
-+ -- 7
-- -- 0
-* -- 21
-:= -- 74
-add.period$ -- 7
-call.type$ -- 7
-change.case$ -- 28
++ -- 37
+- -- 6
+* -- 96
+:= -- 353
+add.period$ -- 31
+call.type$ -- 31
+change.case$ -- 112
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 28
-empty$ -- 127
-format.name$ -- 0
-if$ -- 268
+cite$ -- 31
+duplicate$ -- 144
+empty$ -- 558
+format.name$ -- 6
+if$ -- 1220
 int.to.chr$ -- 0
-int.to.str$ -- 7
-missing$ -- 21
-newline$ -- 62
-num.names$ -- 0
-pop$ -- 63
+int.to.str$ -- 31
+missing$ -- 109
+newline$ -- 252
+num.names$ -- 4
+pop$ -- 259
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 21
+skip$ -- 86
 stack$ -- 0
 substring$ -- 0
-swap$ -- 0
+swap$ -- 4
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 2
 type$ -- 0
 warning$ -- 0
-while$ -- 0
-width$ -- 8
-write$ -- 75
-(There was 1 error message)
+while$ -- 4
+width$ -- 33
+write$ -- 323
+(There were 3 error messages)

@@ -1,32 +1,85 @@
 \nobreakspace {}\relax $\@@underline {\hbox {\beginR \textbf {\fontsize {10pt}{0}\selectfont {\BZarScaleOne عنــوان}}\endR }}\mathsurround \z@ $\relax \hfill \relax $\@@underline {\hbox {\beginR \textbf {\fontsize {10pt}{0}\selectfont {\BZarScaleOne صفحه}}\endR }}\mathsurround \z@ $\relax \vspace {0.2cm}\par 
 \contentsline {section}{فهرست مطالب}{شش}{section*.2}%
-\contentsline {section}{فهرست شکل‌ها}{هفت}{section*.3}%
-\contentsline {section}{فهرست جدول‌ها}{هشت}{section*.4}%
-\contentsline {section}{فهرست الگوریتم‌ها}{نه}{section*.5}%
-\contentsline {section}{چکیده}{1}{section*.7}%
-\contentsline {chapter}{\numberline {فصل\nobreakspace {}اول} پیاده سازی }{2}{chapter.1}%
-\contentsline {section}{\numberline {1-1}ابزارها}{2}{section.1.1}%
-\contentsline {subsection}{\numberline {1-1-1} \lr {OpenGL} }{2}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1-1-2}\lr {GLFW}}{3}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1-1-3}\lr {GLAD}}{3}{subsection.1.1.3}%
-\contentsline {subsection}{\numberline {1-1-4}\lr {GLM}}{3}{subsection.1.1.4}%
-\contentsline {subsection}{\numberline {1-1-5}\lr {Assimp}}{3}{subsection.1.1.5}%
-\contentsline {subsection}{\numberline {1-1-6}\lr {stb}}{4}{subsection.1.1.6}%
-\contentsline {section}{\numberline {1-2}پیاده‌سازی سیستم پویانمایی}{4}{section.1.2}%
-\contentsline {subsection}{\numberline {1-2-1}نمایش مدل گرافیکی}{5}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1-2-2}قرارگیری مدل سه‌بعدی در کارت گرافیک}{5}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1-2-3}سایه‌زنی فونگ}{5}{subsection.1.2.3}%
-\contentsline {subsubsection}{نور محیطی}{6}{subsubsection*.9}%
-\contentsline {subsubsection}{نور پخش‌شده}{6}{subsubsection*.10}%
-\contentsline {subsubsection}{نور آینه‌وار}{6}{subsubsection*.11}%
-\contentsline {subsection}{\numberline {1-2-4}اسکلت شخصیت}{8}{subsection.1.2.4}%
-\contentsline {subsection}{\numberline {1-2-5}اتصال اسکلت و مدل سه‌بعدی}{8}{subsection.1.2.5}%
-\contentsline {subsection}{\numberline {1-2-6}انیمیشن}{9}{subsection.1.2.6}%
-\contentsline {subsection}{\numberline {1-2-7}پخش‌کننده‌ی انیمیشن}{9}{subsection.1.2.7}%
-\contentsline {subsection}{\numberline {1-2-8}الگوریتم پخش‌کننده‌ی انیمیشن }{9}{subsection.1.2.8}%
-\contentsline {subsection}{\numberline {1-2-9}ماشین حالت انیمیشن}{10}{subsection.1.2.9}%
-\contentsline {subsection}{\numberline {1-2-10}به‌روزرسانی ماشین حالت انیمیشن}{11}{subsection.1.2.10}%
-\setcounter {tocdepth}{-1}
-\setcounter {tocdepth}{2}
-\contentsline {chapter}{پیوست‌ها}{13}{appendix*.16}%
-\contentsline {chapter}{{مراجع}}{14}{appendix*.16}%
+\contentsline {section}{چکیده}{1}{section*.3}%
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}اول}مقدمه}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}دوم} مرور }{5}{chapter.2}%
+\contentsline {section}{\numberline {2-1}تاریخچه‌ی پویانمایی سنتی}{6}{section.2.1}%
+\contentsline {subsection}{\numberline {2-1-1}فریم‌های کلیدی و درمیان}{6}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2-1-2}چشم‌انداز چندمنظوره}{7}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2-1-3}لایه‌های مختلف}{7}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2-2}پویانمایی کامپیوتری}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2-2-1}فریم‌های کلیدی و درمیان}{9}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2-2-2}رویه}{9}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2-2-3}مبتنی بر فیزیک}{9}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2-2-4}ضبط حرکت \LTRfootnote {Motion Capture}}{9}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2-3}موتور بازی‌سازی}{10}{section.2.3}%
+\contentsline {section}{\numberline {2-4}موتور بازی‌سازی آنریل}{10}{section.2.4}%
+\contentsline {section}{\numberline {2-5}زبان برنامه‌نویسی در آنریل}{11}{section.2.5}%
+\contentsline {section}{\numberline {2-6}گرافیک کامپیوتری}{11}{section.2.6}%
+\contentsline {subsection}{\numberline {2-6-1} \lr {OpenGL} }{12}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2-6-2}سایه‌زنی فونگ}{12}{subsection.2.6.2}%
+\contentsline {subsubsection}{نورمحیطی}{13}{subsubsection*.7}%
+\contentsline {subsubsection}{نور پخش‌شده}{13}{subsubsection*.8}%
+\contentsline {subsubsection}{نور آینه‌وار}{13}{subsubsection*.9}%
+\contentsline {section}{\numberline {2-7} پویانمایی اسکلتی}{14}{section.2.7}%
+\contentsline {subsection}{\numberline {2-7-1}شبکه‌ی\LTRfootnote {Mesh} چندضلعی}{14}{subsection.2.7.1}%
+\contentsline {subsubsection}{راس}{15}{subsubsection*.12}%
+\contentsline {subsubsection}{لبه}{15}{subsubsection*.13}%
+\contentsline {subsubsection}{وجه}{15}{subsubsection*.14}%
+\contentsline {subsubsection}{چندضلعی}{15}{subsubsection*.15}%
+\contentsline {subsection}{\numberline {2-7-2}مدل}{16}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2-7-3}زیرمش \LTRfootnote {Sub-Mesh} }{16}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2-7-4}ماده \LTRfootnote {Material} }{17}{subsection.2.7.4}%
+\contentsline {subsection}{\numberline {2-7-5}بافت \LTRfootnote {Texture} }{17}{subsection.2.7.5}%
+\contentsline {subsection}{\numberline {2-7-6}اسکلت}{18}{subsection.2.7.6}%
+\contentsline {subsection}{\numberline {2-7-7} \lr {Skinning} }{19}{subsection.2.7.7}%
+\contentsline {subsection}{\numberline {2-7-8}ژست شخصیت}{19}{subsection.2.7.8}%
+\contentsline {subsection}{\numberline {2-7-9}‌کلیپ‌های پویانمایی}{20}{subsection.2.7.9}%
+\contentsline {subsection}{\numberline {2-7-10}ترکیب کلیپ‌های پویانمایی}{20}{subsection.2.7.10}%
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}سوم}سیستم گراف پویانمایی در موتور بازی‌سازی آنریل}{22}{chapter.3}%
+\contentsline {section}{\numberline {3-1}بازیگران، پیاده‌ها و شخصیت‌‌ها}{23}{section.3.1}%
+\contentsline {section}{\numberline {3-2}اجزاء}{23}{section.3.2}%
+\contentsline {section}{\numberline {3-3}شخصیت‌ها}{24}{section.3.3}%
+\contentsline {section}{\numberline {3-4}مولفه‌ی مش اسکلتی}{24}{section.3.4}%
+\contentsline {section}{\numberline {3-5}طرح پویانمایی}{25}{section.3.5}%
+\contentsline {section}{\numberline {3-6}گراف رویداد}{25}{section.3.6}%
+\contentsline {section}{\numberline {3-7}گراف پویا‌نمایی}{25}{section.3.7}%
+\contentsline {section}{\numberline {3-8}گره‌های گراف پویانمایی }{26}{section.3.8}%
+\contentsline {section}{\numberline {3-9}ساختار گره‌های گراف پویانمایی}{26}{section.3.9}%
+\contentsline {section}{\numberline {3-10}جریان اجرا در گراف پویانمایی}{28}{section.3.10}%
+\contentsline {section}{\numberline {3-11}دنباله‌ی پویانمایی}{29}{section.3.11}%
+\contentsline {section}{\numberline {3-12}فضای ترکیب}{29}{section.3.12}%
+\contentsline {section}{\numberline {3-13}گره‌های ترکیب}{30}{section.3.13}%
+\contentsline {subsection}{\numberline {3-13-1} گره‌ی ترکیب استاندارد}{30}{subsection.3.13.1}%
+\contentsline {subsection}{\numberline {3-13-2} گره‌ی ترکیب بر اساس یک مقدار}{31}{subsection.3.13.2}%
+\contentsline {subsection}{\numberline {3-13-3} گره‌ی ترکیب لایه‌ای برای هر مفصل}{31}{subsection.3.13.3}%
+\contentsline {section}{\numberline {3-14}گره‌های کنترل اسکلت}{33}{section.3.14}%
+\contentsline {section}{\numberline {3-15}گره‌های تبدیل فضا}{33}{section.3.15}%
+\contentsline {section}{\numberline {3-16}گره‌‌ی ماشین حالت}{33}{section.3.16}%
+\contentsline {section}{\numberline {3-17}نتیجه‌گیری}{33}{section.3.17}%
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}چهارم} پیاده سازی }{35}{chapter.4}%
+\contentsline {section}{\numberline {4-1}کتابخانه‌‌های کمکی}{35}{section.4.1}%
+\contentsline {subsection}{\numberline {4-1-1}\lr {GLFW}}{35}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4-1-2}\lr {GLAD}}{36}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4-1-3}\lr {GLM}}{36}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4-1-4}\lr {Assimp}}{36}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4-1-5}\lr {stb}}{36}{subsection.4.1.5}%
+\contentsline {section}{\numberline {4-2}پیاده‌سازی سیستم پویانمایی}{37}{section.4.2}%
+\contentsline {subsection}{\numberline {4-2-1}نمایش مدل گرافیکی}{37}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4-2-2}قرارگیری مدل سه‌بعدی در کارت گرافیک}{37}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4-2-3}سایه‌زنی فونگ}{38}{subsection.4.2.3}%
+\contentsline {subsubsection}{نور محیطی}{38}{subsubsection*.36}%
+\contentsline {subsubsection}{نور پخش‌شده}{39}{subsubsection*.37}%
+\contentsline {subsubsection}{نور آینه‌وار}{40}{subsubsection*.39}%
+\contentsline {subsection}{\numberline {4-2-4}اسکلت شخصیت}{41}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4-2-5}اتصال اسکلت و مدل سه‌بعدی}{41}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4-2-6}کلیپ پویانمایی}{43}{subsection.4.2.6}%
+\contentsline {subsection}{\numberline {4-2-7}پخش‌کننده‌ی کلیپ‌های پویانمایی}{43}{subsection.4.2.7}%
+\contentsline {subsection}{\numberline {4-2-8}الگوریتم پخش‌کننده‌ی کلیپ‌های پویانمایی }{43}{subsection.4.2.8}%
+\contentsline {subsection}{\numberline {4-2-9}ماشین حالت پویانمایی}{44}{subsection.4.2.9}%
+\contentsline {subsection}{\numberline {4-2-10}به‌روزرسانی ماشین حالت پویانمایی}{45}{subsection.4.2.10}%
+\contentsline {section}{\numberline {4-3}نتیجه‌گیری}{46}{section.4.3}%
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}پنجم}نتیجه‌گیری }{47}{chapter.5}%
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}ششم}کار‌‌های آینده}{48}{chapter.6}%
+\contentsline {section}{فهرست شکل‌ها}{49}{section*.44}%
+\contentsline {chapter}{{مراجع}}{50}{section*.44}%

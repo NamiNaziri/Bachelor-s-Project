@@ -1,6 +1,37 @@
 \nobreakspace {}\relax $\@@underline {\hbox {\beginR \textbf {\fontsize {10pt}{0}\selectfont {\BZarScaleOne عنــوان}}\endR }}\mathsurround \z@ $\relax \hfill \relax $\@@underline {\hbox {\beginR \textbf {\fontsize {10pt}{0}\selectfont {\BZarScaleOne صفحه}}\endR }}\mathsurround \z@ $\relax \vspace {-0.1cm}\par 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1-1}{\ignorespaces ساختار کلاس‌های کتابخانه‌ی \lr {Assimp} \cite {LearnOpenGL_Assimp}\relax }}{4}{figure.caption.8}%
-\contentsline {figure}{\numberline {1-2}{\ignorespaces نور آینه‌وار\relax }}{7}{figure.caption.12}%
-\contentsline {figure}{\numberline {1-3}{\ignorespaces بدست آوردن بردار پرتوی منعکس‌شده\relax }}{8}{figure.caption.13}%
-\contentsline {figure}{\numberline {1-4}{\ignorespaces ماشین حالت برای حرکت شخصیت\relax }}{10}{figure.caption.14}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2-1}{\ignorespaces فریم‌های کلیدی و درمیان \cite {Keyframeberkeley}\relax }}{7}{figure.caption.4}%
+\contentsline {figure}{\numberline {2-2}{\ignorespaces چشم‌انداز چندمنظوره \cite {Wood1997Multiperspective}\relax }}{7}{figure.caption.5}%
+\contentsline {figure}{\numberline {2-3}{\ignorespaces لایه‌های مختلف\cite {AnimationCellsWikipedia}\relax }}{8}{figure.caption.6}%
+\contentsline {figure}{\numberline {2-4}{\ignorespaces مولفه‌های الگوریتم سایه‌زنی فونگ \cite {PhongShadingWikipedia} \relax }}{13}{figure.caption.10}%
+\contentsline {figure}{\numberline {2-5}{\ignorespaces نمایش یک دلفین به وسیله‌ی مش مثلثی\cite {PolygonMeshWikipedia}\relax }}{14}{figure.caption.11}%
+\contentsline {figure}{\numberline {2-6}{\ignorespaces عناصر یک مش‌چندضلعی\cite {PolygonMeshWikipedia}\relax }}{15}{figure.caption.16}%
+\contentsline {figure}{\numberline {2-7}{\ignorespaces اجزاء مختلف ماشین\cite {CarSource}\relax }}{16}{figure.caption.17}%
+\contentsline {figure}{\numberline {2-8}{\ignorespaces چند نوع ماده‌ی مختلف\cite {MaterialSource}\relax }}{17}{figure.caption.18}%
+\contentsline {figure}{\numberline {2-9}{\ignorespaces چند نوع بافت مختلف\cite {TextureSource}\relax }}{18}{figure.caption.19}%
+\contentsline {figure}{\numberline {2-10}{\ignorespaces در سمت راست مش شخصیت و سمت چپ اسکلت شخصیت قابل مشاهده است.\cite {SkeletalModelSource}\relax }}{18}{figure.caption.20}%
+\contentsline {figure}{\numberline {2-11}{\ignorespaces عکس نشان‌دهنده‌ی میزان تعلق رئوس اطراف مفصل شانه است. هرچه راس به مفصل نزدیک تر باشد، تعلق بیشتری به آن دارد(رنگ قرمز تری می‌گیرند).\cite {SkinningSource}\relax }}{19}{figure.caption.21}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3-1}{\ignorespaces نمونه‌ای از یک گراف رویداد\relax }}{26}{figure.caption.22}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces نمونه‌ای از یک گراف پویانمایی\relax }}{27}{figure.caption.23}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces ساختار کلی گره‌های موجود در گراف پویانمایی\relax }}{27}{figure.caption.24}%
+\contentsline {figure}{\numberline {3-4}{\ignorespaces پنل تنظیمات گره‌ی ترکیب\relax }}{28}{figure.caption.25}%
+\contentsline {figure}{\numberline {3-5}{\ignorespaces نمونه‌ای از جریان اجرا\relax }}{28}{figure.caption.26}%
+\contentsline {figure}{\numberline {3-6}{\ignorespaces نمونه‌ای از گره‌ی دنباله‌ی پویانمایی\relax }}{29}{figure.caption.27}%
+\contentsline {figure}{\numberline {3-7}{\ignorespaces در این فضای حالت، سرعت بین 0 تا 500 متغیر است و زاویه بین -120 تا 120 متغیر است.(در شکل به صورت کمی نوشته‌شده‌است) در کل از 10 کلیپ پویانمایی شده (نقاط سفیدرنگ در تصویر) ولی با استفاده از ترکیب بین این کلیپ‌ها می‌توان تمامی مقادیر بین کلیپ‌ها را نیز بدست آورد. \relax }}{30}{figure.caption.28}%
+\contentsline {figure}{\numberline {3-8}{\ignorespaces گره‌ی ترکیب \relax }}{31}{figure.caption.29}%
+\contentsline {figure}{\numberline {3-9}{\ignorespaces مثال استفاده از گره‌ی ترکیب \relax }}{32}{figure.caption.30}%
+\contentsline {figure}{\numberline {3-10}{\ignorespaces اجرای کلیپ‌‌‌های پویانمایی بر روی مفاصل متفاوت \relax }}{32}{figure.caption.31}%
+\contentsline {figure}{\numberline {3-11}{\ignorespaces گره‌های تبدیل حالت \relax }}{33}{figure.caption.32}%
+\contentsline {figure}{\numberline {3-12}{\ignorespaces ماشین حالت برای حرکت شخصیت \relax }}{34}{figure.caption.33}%
+\contentsline {figure}{\numberline {3-13}{\ignorespaces شخصیت ماشین حالت برای حرکت شخصیت در هنگام روی زمین قرار گرفتن \relax }}{34}{figure.caption.34}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4-1}{\ignorespaces ساختار کلاس‌های کتابخانه‌ی \lr {Assimp} \cite {LearnOpenGL_Assimp}\relax }}{37}{figure.caption.35}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces نور پخش‌شده\relax }}{39}{figure.caption.38}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces نور آینه‌وار\relax }}{40}{figure.caption.40}%
+\contentsline {figure}{\numberline {4-4}{\ignorespaces بدست آوردن بردار پرتوی منعکس‌شده\relax }}{41}{figure.caption.41}%
+\contentsline {figure}{\numberline {4-5}{\ignorespaces نمایی از ژست شخصیت در یک کلیپ پویانمایی\relax }}{43}{figure.caption.42}%
+\contentsline {figure}{\numberline {4-6}{\ignorespaces ماشین حالت برای حرکت شخصیت\relax }}{45}{figure.caption.43}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
