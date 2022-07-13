@@ -6,8 +6,7 @@
 و سایر برنامه‌های بلادرنگ است.
 
 این موتور برای اولین بار برای توسعه‌ی بازی "غیرواقعی" در سال 1998 توسعه پیدا کرد.
-پس از آن نسخه‌های متعددی از این موتور منتشر شده است.
-\cite{UnrealEngineWikiPedia}
+پس از آن نسخه‌های متعددی از این موتور منتشر شده است \cite{UnrealEngineWikiPedia}.
 
 موتور آنریل مانند تمامی موتور‌های بازی‌سازی دارای مولفه‌های فراوانی است که برای 
 تولید بازی به کار می‌رود.
@@ -39,8 +38,7 @@
 با استفاده از این ابزار می‌توان ریگ‌های مناسبی ساخت تا 
 درون 
 \lr{Sequencer}
-شخصیت را متحرک ساخت.
-\cite{UnrealEngineAnimation}
+شخصیت را متحرک ساخت \cite{UnrealEngineAnimation}.
 
 همانطور که مشخص است، سیستم پویانمایی موجود در موتور آنریل بسیار گسترده است. در این پروژه 
 قسمت طرح پویانمایی آنریل که به گراف پویانمایی نیز شناخته می‌شود بررسی می‌شود.
@@ -181,8 +179,10 @@
 درون هر طرح پویانمایی، یک گراف رویداد وجود دارد. 
 این گراف برای دریافت مقادیر منطقی از بخش گیمپلی و منطق بازی به‌کار می‌رود.
 به عنوان مثال اینکه شخصیت می‌خواهد به چه سمتی حرکت کند، یا اینکه چه سرعتی دارد را 
-از طریق این گراف در متغیرهایی که تعریف می‌کنیم، ذخیره می‌کنیم.
-\cite{EventGraphUnrealEngine}
+از طریق این گراف در متغیرهایی که تعریف می‌کنیم، ذخیره می‌کنیم \cite{EventGraphUnrealEngine}.
+نمونه‌ای از گراف رویداد را می‌توان در شکل 
+\ref{fig:EventGraph}
+مشاهده‌کرد.
 
 \begin{figure}[ht]
 	\centerline{\includegraphics[width=\textwidth,height=8cm,keepaspectratio]{Figures/Ch3/EventGraph.png}}
@@ -198,7 +198,9 @@
 به صورت کلی هر طرح پویانمایی دارای یک گراف پویانمایی است که 
 این گراف شامل گره‌های مختلفی است که هر کدام از این گره‌ها استفاده‌های متفاوتی دارند.
 به عنوان مثال می‌توان از این گره‌ها برای نمونه‌برداری
-
+نمونه‌ای از گراف پویانمایی را می‌توان در شکل 
+\ref{fig:AnimationGraph}
+مشاهده‌کرد.
 
 \begin{figure}[ht]
 	\centerline{\includegraphics[width=\textwidth,height=8cm,keepaspectratio]{Figures/Ch3/AnimationGraph.png}}
@@ -248,6 +250,9 @@
 ژست شخصیت پس از انجام عملیات‌های مربوط به آن پین است.
 همچنین می‌توانند شامل پین‌های ویژگی باشند. مقادیر این پین‌های ویژگی از 
 متغیر‌هایی که در گراف رویداد تعریف و مقداردهی شده‌اند، می‌توانند بدست آیند.
+در شکل 
+\ref{fig:AnimNodeStructure}
+این ساختار آورده شده‌است.
 
 \begin{figure}[ht]
 	\centerline{\includegraphics[width=\textwidth,height=8cm,keepaspectratio]{Figures/Ch3/AnimNodeStructure.png}}
@@ -258,6 +263,7 @@
 
 قابل ذکر است با انتخاب هر گره می‌توان به پنل جزئیات آن هم دسترسی پیدا کرد 
 که به وسیله‌ی‌ آن می‌توان تنظیمات لازم را بر روی آن گره انجام داد.
+(شکل \ref{fig:AnimNodeDetailPanel})
 
 \begin{figure}[ht]
 	\centerline{\includegraphics[width=\textwidth,height=8cm,keepaspectratio]{Figures/Ch3/DetailsPanel.png}}
@@ -271,12 +277,12 @@
 تمامی گراف‌ها دارای یک جریان اجرا هستند که به صورت پیوند‌های ضربانی 
 میان ورودی و خروجی پین‌ها قابل مشاهده هستند. این جریان‌ها درواقع نحوه‌ی حرکت داده
 را در گراف ترسیم می‌کنند.
+(شکل \ref{fig:ExecFlow})
 در گراف پویانمایی، این جریان نشان‌دهنده‌ی ‌ژست‌هایی است که از 
 یک گره به گره‌ی دیگر منتقل می‌شود.
 در برخی از گره‌‌ها مانند گره‌ی ترکیب، ورودی‌های متعددی وجود دارند و به صورت 
 درونی با مقادیری که در متغیر‌ها داریم تصمیم می‌گیرند که کدام یک از ورودی‌‌ها 
-در حال حاضر بخشی از جریان اجرا است.
-
+در حال حاضر بخشی از جریان اجرا است \cite{AnimationGraphUnrealEngine}.
 
 \begin{figure}[ht]
 	\centerline{\includegraphics[width=\textwidth,height=8cm,keepaspectratio]{Figures/Ch3/ExecFlow.png}}
@@ -287,12 +293,12 @@
 
 
 
-\cite{AnimationGraphUnrealEngine}
+
 
 \section {دنباله‌ی پویانمایی}
 
 کلیپ‌های پویانمایی در آنریل به اسم دنباله‌ی پویانمایی شناخته می‌شوند.
-دنباله‌ی پویانمایی یک دارایی پویانمایی است که 
+دنباله‌ی پویانمایی یک دارایی پویانمایی و  
 حاوی داده‌‌های پویانمایی است که می‌تواند روی 
 یک مش اسکلتی پخش شود تا شخصیت مربوط 
 به آن اسکلت را متحرک سازد.
@@ -306,6 +312,10 @@
 اسکلت مش در نقطه‌‌ی خاصی از زمان است.
 بنابراین کلیپ‌های پویانمایی یکی از گره‌های مهم در 
 گراف انیمشن حساب می‌آیند.
+در شکل 
+\ref{fig:AnimationSequence}
+یک دنباله‌ای از فریم‌‌‌های کلیدی کلیپ پویانمایی دویدن به همراه 
+گره‌ی مربوط به آن آورده شده‌است.
 
 قابل ذکر است این گره‌ مانند بقیه‌ی گره‌ها دارای تنظیماتی است که در پنل تنظیمات قابل مشاهده‌ هستند. به عنوان مثال 
 می‌توان سرعت حرکت کلیپ را در این تنظیمات مشخص کرد یا اینکه کلیپ به صورت حلقه‌وار تکرار شود یا خیر.
@@ -335,6 +345,7 @@
 و می‌توان هرکدام از این کلیپ‌ها را در جای مشخص خودش 
 (با توجه به سرعت و جهت)
 قرار داد.
+(شکل \ref{fig:BlendSpace})
 
 درجلوتر اشاره می‌شود که می‌توان کلیپ‌ها را با استفاده از 
 گره‌ی ترکیب نیز، با یکدیگر ترکیب نمود. 
@@ -379,13 +390,14 @@
 خروجی نهایی را 
 \lr{Output}
 در نظر بگیریم، 
+(شکل \ref{fig:BlendNode})
 خروجی به صورت زیر محاسبه می‌شود.
 
 \begin{equation}\label{eq:BlendNode}
 	Output= A * (1-alpha) + B * alpha
 \end{equation}
 
-\cite{BlendNodeUnrealEngine}
+
 
 \begin{figure}[ht]
 	\centerline{\includegraphics[width=\textwidth,height=8cm,keepaspectratio]{Figures/Ch3/BlendNode.png}}\hfill
@@ -409,10 +421,11 @@
 نشان داد.
 اگر برای هرکدام از این حالات یک کلیپ پویانمایی داشته باشیم و بخواهیم 
 با توجه به حالت فعلی شخصیت یکی از این کلیپ‌ها را روی شخصیت پخش کنیم،
-می‌توانیم از این گره استفاده کنیم.
-\cite{BlendNodeUnrealEngine}
+می‌توانیم از این گره استفاده کنیم \cite{BlendNodeUnrealEngine}.
 
-این مثال در شکل زیر آمده است.
+این مثال در شکل 
+\ref{fig:EnumBlendNode_WithArrow}
+آمده است.
 
 \begin{figure}[ht]
 	\centerline{\includegraphics[width=\textwidth,height=8cm,keepaspectratio]{Figures/Ch3/EnumBlendNode_WithArrow.png}}\hfill
@@ -423,7 +436,7 @@
 \subsection{ گره‌ی ترکیب لایه‌ای برای هر مفصل}
 
 با استفاده از این گره‌ می‌توانیم کلیپ‌ پویانمایی را بر روی 
-مفاصل محدودی از اسکلت اجرا کنیم.
+مفاصل محدودی از اسکلت اجرا کنیم \cite{BlendNodeUnrealEngine}.
 به عنوان مثال فرض کنید یک کلیپ پویانمایی مربوط به مشت زدن و کلیپ 
 دیگری مربوط به حرکت شخصیت داریم. 
 اگر بخواهیم از این دو کلیپ استفاده کنیم تا شخصیت در حال 
@@ -432,13 +445,17 @@
 بر روی قسمت کمر به بالا‌‌‌ی شخصیت و کلیپ حرکت را بر 
 روی کمر به پایین شخصیت اجرا کنیم.
 
+این مثال در شکل 
+\ref{fig:LayeredBlendPerBone_WithArrow}
+آمده است.
+
 \begin{figure}[ht]
 	\centerline{\includegraphics[width=\textwidth,height=8cm,keepaspectratio]{Figures/Ch3/LayeredBlendPerBone_WithArrow.png}}\hfill
 	\caption{ اجرای کلیپ‌‌‌های پویانمایی بر روی مفاصل متفاوت }
 	\label{fig:LayeredBlendPerBone_WithArrow}
 \end{figure}
 
-\cite{BlendNodeUnrealEngine}
+
 
 
 \section{گره‌های کنترل اسکلت}
@@ -449,8 +466,7 @@
 \lr{IK}
 به عنوان مثال اشاره کرد.
 علاوه بر این بعضی از گره‌های مربوط به این قسمت، می‌توانند برای اعمال فیزیک بر روی 
-مفاصل استفاده شوند.
-\cite{SkeletalControlsUnrealEngine}
+مفاصل استفاده شوند \cite{SkeletalControlsUnrealEngine}.
 
 \section{گره‌های تبدیل فضا}
 
@@ -462,8 +478,10 @@
 اکثر گره‌ها با ژست‌ها در هنگامی که در فضای محلی قرار دارند، کار می‌کنند.
 اما بعضی از گره‌های ترکیب و تمامی گره‌های کنترل اسکلت 
 با ژست در فضای مولفه کار می‌کنند. بنابراین لازم از در مواقع لازم با استفاده از 
-این گره، ژست اسکلت را از یک فضا به فضای دیگر منتقل کنیم.
-\cite{ChangeSpaceUnrealEngine}
+این گره، ژست اسکلت را از یک فضا به فضای دیگر منتقل کنیم \cite{ChangeSpaceUnrealEngine}.
+در شکل 
+\ref{fig:ChnageSpaceNodes}
+این دو گره‌ی تبدیل آورده شده‌است.
 
 \begin{figure}[ht]
 	\centerline{\includegraphics[width=\textwidth,height=8cm,keepaspectratio]{Figures/Ch3/ChnageSpaceNodes.png}}\hfill
@@ -476,7 +494,16 @@
 ماشین‌های حالت، یک راه گرافیکی برای شکستن پویانمایی 
 شخصیت‌ها به یک سری حالت را ارائه می‌دهند.
 در آنریل می‌توان ماشین‌های حالت پیچیده و تو در تو بر اساس نیاز کاربران به وجود آورد.
-
+به عنوان مثال شکل 
+\ref{fig:AnimationStateMachine1}
+یک ماشین حالت برای حرکت شخصیت را نشان می‌دهد.
+هر کدام از این حالت‌‌ها خود دوباره یک ماشین حالت هستند 
+و
+در شکل 
+\ref{fig:AnimationStateMachine3}
+ماشین حالت مربوط به حالت 
+\lr{StandingGroundedMovement}
+را می‌توان مشاهده‌کرد.
 
 \begin{figure}[ht]
 	\centerline{\includegraphics[width=\textwidth,height=8cm,keepaspectratio]{Figures/Ch3/AnimationStateMachine1.png}}\hfill
@@ -489,6 +516,8 @@
 	\caption{ شخصیت ماشین حالت برای حرکت شخصیت در هنگام روی زمین قرار گرفتن  }
 	\label{fig:AnimationStateMachine3}
 \end{figure}
+
+
 
 \section{نتیجه‌گیری}
 

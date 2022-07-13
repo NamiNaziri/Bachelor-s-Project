@@ -3,12 +3,12 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: IUT-Thesis.aux
 The style file: Settings/ModifiedIEEEtranFa.bst
 Database file #1: References.bib
-I was expecting a `{' or a `('---line 297 of file References.bib
+I was expecting a `{' or a `('---line 349 of file References.bib
  : 
  : @MISC{AnimationWikipedia,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 405 of file References.bib
+Repeated entry---line 457 of file References.bib
  : @article{barczak2019comparative
  :                                ,
 I'm skipping whatever remains of this entry
@@ -16,36 +16,36 @@ Too many commas in name 1 of "Wood DN, Finkelstein A, Hughes JF, Thayer CE and S
 while executing---line 1251 of file Settings/ModifiedIEEEtranFa.bst
 
 Done.
-You've used 31 entries,
+You've used 34 entries,
             2350 wiz_defined-function locations,
-            732 strings with 8920 characters,
-and the built_in function-call counts, 4245 in all, are:
-= -- 461
-> -- 51
+            745 strings with 9364 characters,
+and the built_in function-call counts, 4660 in all, are:
+= -- 508
+> -- 57
 < -- 0
-+ -- 37
-- -- 6
-* -- 96
-:= -- 353
-add.period$ -- 31
-call.type$ -- 31
-change.case$ -- 112
++ -- 41
+- -- 7
+* -- 103
+:= -- 388
+add.period$ -- 34
+call.type$ -- 34
+change.case$ -- 125
 chr.to.int$ -- 0
-cite$ -- 31
-duplicate$ -- 144
-empty$ -- 558
-format.name$ -- 6
-if$ -- 1220
+cite$ -- 34
+duplicate$ -- 156
+empty$ -- 612
+format.name$ -- 7
+if$ -- 1338
 int.to.chr$ -- 0
-int.to.str$ -- 31
-missing$ -- 109
-newline$ -- 252
-num.names$ -- 4
-pop$ -- 259
+int.to.str$ -- 34
+missing$ -- 119
+newline$ -- 276
+num.names$ -- 5
+pop$ -- 285
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 86
+skip$ -- 95
 stack$ -- 0
 substring$ -- 0
 swap$ -- 4
@@ -54,7 +54,7 @@ text.prefix$ -- 0
 top$ -- 2
 type$ -- 0
 warning$ -- 0
-while$ -- 4
-width$ -- 33
-write$ -- 323
+while$ -- 5
+width$ -- 36
+write$ -- 354
 (There were 3 error messages)

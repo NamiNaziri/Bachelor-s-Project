@@ -267,4 +267,29 @@ Gregory, J.,
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ogldevSpecularLighting}
+``ogldev specular lighting'',
+\newblock \url{https://ogldev.org/www/tutorial19/tutorial19.html}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{MITShading}
+``Mit shading and material appearance'',
+\newblock
+  \url{https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/b86de2fe1a1084e56148f293da4a4dfd_MIT6_837F12_Lec15.pdf}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{GithubSkeletalAnimation}
+Naziri, N., ``Skeletal animation implementation'',
+\newblock \url{https://github.com/NamiNaziri/Skeletal-Animation}.
+
+\end{LTRbibitems}
+
 \end{thebibliography}

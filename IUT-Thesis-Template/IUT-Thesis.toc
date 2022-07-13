@@ -17,13 +17,13 @@
 \contentsline {section}{\numberline {2-5}زبان برنامه‌نویسی در آنریل}{11}{section.2.5}%
 \contentsline {section}{\numberline {2-6}گرافیک کامپیوتری}{11}{section.2.6}%
 \contentsline {subsection}{\numberline {2-6-1} \lr {OpenGL} }{12}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2-6-2}سایه‌زنی فونگ}{12}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2-6-2}سایه‌زنی فانگ}{12}{subsection.2.6.2}%
 \contentsline {subsubsection}{نورمحیطی}{13}{subsubsection*.7}%
 \contentsline {subsubsection}{نور پخش‌شده}{13}{subsubsection*.8}%
 \contentsline {subsubsection}{نور آینه‌وار}{13}{subsubsection*.9}%
 \contentsline {section}{\numberline {2-7} پویانمایی اسکلتی}{14}{section.2.7}%
 \contentsline {subsection}{\numberline {2-7-1}شبکه‌ی\LTRfootnote {Mesh} چندضلعی}{14}{subsection.2.7.1}%
-\contentsline {subsubsection}{راس}{15}{subsubsection*.12}%
+\contentsline {subsubsection}{راس}{14}{subsubsection*.12}%
 \contentsline {subsubsection}{لبه}{15}{subsubsection*.13}%
 \contentsline {subsubsection}{وجه}{15}{subsubsection*.14}%
 \contentsline {subsubsection}{چندضلعی}{15}{subsubsection*.15}%
@@ -44,10 +44,10 @@
 \contentsline {section}{\numberline {3-5}طرح پویانمایی}{25}{section.3.5}%
 \contentsline {section}{\numberline {3-6}گراف رویداد}{25}{section.3.6}%
 \contentsline {section}{\numberline {3-7}گراف پویا‌نمایی}{25}{section.3.7}%
-\contentsline {section}{\numberline {3-8}گره‌های گراف پویانمایی }{26}{section.3.8}%
-\contentsline {section}{\numberline {3-9}ساختار گره‌های گراف پویانمایی}{26}{section.3.9}%
+\contentsline {section}{\numberline {3-8}گره‌های گراف پویانمایی }{27}{section.3.8}%
+\contentsline {section}{\numberline {3-9}ساختار گره‌های گراف پویانمایی}{27}{section.3.9}%
 \contentsline {section}{\numberline {3-10}جریان اجرا در گراف پویانمایی}{28}{section.3.10}%
-\contentsline {section}{\numberline {3-11}دنباله‌ی پویانمایی}{29}{section.3.11}%
+\contentsline {section}{\numberline {3-11}دنباله‌ی پویانمایی}{28}{section.3.11}%
 \contentsline {section}{\numberline {3-12}فضای ترکیب}{29}{section.3.12}%
 \contentsline {section}{\numberline {3-13}گره‌های ترکیب}{30}{section.3.13}%
 \contentsline {subsection}{\numberline {3-13-1} گره‌ی ترکیب استاندارد}{30}{subsection.3.13.1}%
@@ -56,7 +56,7 @@
 \contentsline {section}{\numberline {3-14}گره‌های کنترل اسکلت}{33}{section.3.14}%
 \contentsline {section}{\numberline {3-15}گره‌های تبدیل فضا}{33}{section.3.15}%
 \contentsline {section}{\numberline {3-16}گره‌‌ی ماشین حالت}{33}{section.3.16}%
-\contentsline {section}{\numberline {3-17}نتیجه‌گیری}{33}{section.3.17}%
+\contentsline {section}{\numberline {3-17}نتیجه‌گیری}{34}{section.3.17}%
 \contentsline {chapter}{\numberline {فصل\nobreakspace {}چهارم} پیاده سازی }{35}{chapter.4}%
 \contentsline {section}{\numberline {4-1}کتابخانه‌‌های کمکی}{35}{section.4.1}%
 \contentsline {subsection}{\numberline {4-1-1}\lr {GLFW}}{35}{subsection.4.1.1}%
@@ -67,19 +67,19 @@
 \contentsline {section}{\numberline {4-2}پیاده‌سازی سیستم پویانمایی}{37}{section.4.2}%
 \contentsline {subsection}{\numberline {4-2-1}نمایش مدل گرافیکی}{37}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4-2-2}قرارگیری مدل سه‌بعدی در کارت گرافیک}{37}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4-2-3}سایه‌زنی فونگ}{38}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4-2-3}سایه‌زنی فانگ}{38}{subsection.4.2.3}%
 \contentsline {subsubsection}{نور محیطی}{38}{subsubsection*.36}%
 \contentsline {subsubsection}{نور پخش‌شده}{39}{subsubsection*.37}%
 \contentsline {subsubsection}{نور آینه‌وار}{40}{subsubsection*.39}%
 \contentsline {subsection}{\numberline {4-2-4}اسکلت شخصیت}{41}{subsection.4.2.4}%
-\contentsline {subsection}{\numberline {4-2-5}اتصال اسکلت و مدل سه‌بعدی}{41}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4-2-5}اتصال اسکلت و مدل سه‌بعدی}{42}{subsection.4.2.5}%
 \contentsline {subsection}{\numberline {4-2-6}کلیپ پویانمایی}{43}{subsection.4.2.6}%
 \contentsline {subsection}{\numberline {4-2-7}پخش‌کننده‌ی کلیپ‌های پویانمایی}{43}{subsection.4.2.7}%
-\contentsline {subsection}{\numberline {4-2-8}الگوریتم پخش‌کننده‌ی کلیپ‌های پویانمایی }{43}{subsection.4.2.8}%
-\contentsline {subsection}{\numberline {4-2-9}ماشین حالت پویانمایی}{44}{subsection.4.2.9}%
-\contentsline {subsection}{\numberline {4-2-10}به‌روزرسانی ماشین حالت پویانمایی}{45}{subsection.4.2.10}%
-\contentsline {section}{\numberline {4-3}نتیجه‌گیری}{46}{section.4.3}%
-\contentsline {chapter}{\numberline {فصل\nobreakspace {}پنجم}نتیجه‌گیری }{47}{chapter.5}%
-\contentsline {chapter}{\numberline {فصل\nobreakspace {}ششم}کار‌‌های آینده}{48}{chapter.6}%
-\contentsline {section}{فهرست شکل‌ها}{49}{section*.44}%
-\contentsline {chapter}{{مراجع}}{50}{section*.44}%
+\contentsline {subsection}{\numberline {4-2-8}الگوریتم پخش‌کننده‌ی کلیپ‌های پویانمایی }{44}{subsection.4.2.8}%
+\contentsline {subsection}{\numberline {4-2-9}ماشین حالت پویانمایی}{45}{subsection.4.2.9}%
+\contentsline {subsection}{\numberline {4-2-10}به‌روزرسانی ماشین حالت پویانمایی}{46}{subsection.4.2.10}%
+\contentsline {section}{\numberline {4-3}نتیجه‌گیری}{47}{section.4.3}%
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}پنجم}نتیجه‌گیری }{48}{chapter.5}%
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}ششم}کار‌‌های آینده}{49}{chapter.6}%
+\contentsline {section}{فهرست شکل‌ها}{50}{section*.45}%
+\contentsline {chapter}{{مراجع}}{52}{section*.45}%
