@@ -22,6 +22,15 @@ Barczak, A.~M. and Wo{\'z}niak, H., ``Comparative study on game engines'', {\em
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{MITAnimation}
+``Unreal engine skeletalmesh'',
+\newblock
+  \url{https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/9ab6e7460a5b93d6f97b08f95de23ebc_MIT6_837F12_Lec06.pdf}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{Keyframeberkeley}
 ``Keyframe animarion berkeley'',
 \newblock

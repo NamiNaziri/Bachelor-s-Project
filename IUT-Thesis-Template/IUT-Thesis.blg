@@ -16,36 +16,36 @@ Too many commas in name 1 of "Wood DN, Finkelstein A, Hughes JF, Thayer CE and S
 while executing---line 1251 of file Settings/ModifiedIEEEtranFa.bst
 
 Done.
-You've used 34 entries,
+You've used 35 entries,
             2350 wiz_defined-function locations,
-            745 strings with 9364 characters,
-and the built_in function-call counts, 4660 in all, are:
-= -- 508
-> -- 57
+            749 strings with 9536 characters,
+and the built_in function-call counts, 4790 in all, are:
+= -- 523
+> -- 58
 < -- 0
-+ -- 41
++ -- 42
 - -- 7
-* -- 103
-:= -- 388
-add.period$ -- 34
-call.type$ -- 34
-change.case$ -- 125
+* -- 105
+:= -- 397
+add.period$ -- 35
+call.type$ -- 35
+change.case$ -- 129
 chr.to.int$ -- 0
-cite$ -- 34
-duplicate$ -- 156
-empty$ -- 612
+cite$ -- 35
+duplicate$ -- 160
+empty$ -- 630
 format.name$ -- 7
-if$ -- 1338
+if$ -- 1376
 int.to.chr$ -- 0
-int.to.str$ -- 34
-missing$ -- 119
-newline$ -- 276
+int.to.str$ -- 35
+missing$ -- 122
+newline$ -- 284
 num.names$ -- 5
-pop$ -- 285
+pop$ -- 294
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 95
+skip$ -- 98
 stack$ -- 0
 substring$ -- 0
 swap$ -- 4
@@ -55,6 +55,6 @@ top$ -- 2
 type$ -- 0
 warning$ -- 0
 while$ -- 5
-width$ -- 36
-write$ -- 354
+width$ -- 37
+write$ -- 364
 (There were 3 error messages)

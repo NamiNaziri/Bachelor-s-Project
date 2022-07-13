@@ -80,6 +80,5 @@
 \contentsline {subsection}{\numberline {4-2-10}به‌روزرسانی ماشین حالت پویانمایی}{46}{subsection.4.2.10}%
 \contentsline {section}{\numberline {4-3}نتیجه‌گیری}{47}{section.4.3}%
 \contentsline {chapter}{\numberline {فصل\nobreakspace {}پنجم}نتیجه‌گیری }{48}{chapter.5}%
-\contentsline {chapter}{\numberline {فصل\nobreakspace {}ششم}کار‌‌های آینده}{49}{chapter.6}%
 \contentsline {section}{فهرست شکل‌ها}{50}{section*.45}%
 \contentsline {chapter}{{مراجع}}{52}{section*.45}%

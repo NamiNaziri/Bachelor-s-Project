@@ -1253,10 +1253,10 @@ INPUT IUT-Thesis.out
 INPUT ./IUT-Thesis.out
 INPUT ./IUT-Thesis.out
 OUTPUT IUT-Thesis.out
+OUTPUT IUT-Thesis.xdv
 INPUT ./Settings/Allah.pdf
 INPUT ./Settings/Allah.pdf
 INPUT Settings/Allah.pdf
-OUTPUT IUT-Thesis.xdv
 INPUT ./Settings/IUT_Logo.pdf
 INPUT ./Settings/IUT_Logo.pdf
 INPUT Settings/IUT_Logo.pdf
@@ -1522,11 +1522,6 @@ INPUT ./Chapters/Summary.tex
 INPUT ./Chapters/Summary.tex
 INPUT Chapters/Summary.tex
 INPUT Chapters/Summary.tex
-INPUT ./Chapters/FutureWork.tex
-INPUT ./Chapters/FutureWork.tex
-INPUT ./Chapters/FutureWork.tex
-INPUT Chapters/FutureWork.tex
-INPUT Chapters/FutureWork.tex
 INPUT ./IUT-Thesis.lof
 INPUT IUT-Thesis.lof
 INPUT IUT-Thesis.lof

@@ -11,7 +11,7 @@
 \contentsline {figure}{\numberline {2-8}{\ignorespaces چند نوع ماده‌ی مختلف\cite {MaterialSource}\relax }}{17}{figure.caption.18}%
 \contentsline {figure}{\numberline {2-9}{\ignorespaces چند نوع بافت مختلف\cite {TextureSource}\relax }}{18}{figure.caption.19}%
 \contentsline {figure}{\numberline {2-10}{\ignorespaces در سمت راست مش شخصیت و سمت چپ اسکلت شخصیت قابل مشاهده است.\cite {SkeletalModelSource}\relax }}{18}{figure.caption.20}%
-\contentsline {figure}{\numberline {2-11}{\ignorespaces عکس نشان‌دهنده‌ی میزان تعلق رئوس اطراف مفصل شانه است. هرچه راس به مفصل نزدیک تر باشد، تعلق بیشتری به آن دارد(رنگ قرمز تری می‌گیرند) \cite {SkinningSource}\relax }}{19}{figure.caption.21}%
+\contentsline {figure}{\numberline {2-11}{\ignorespaces عکس نشان‌دهنده‌ی میزان تعلق رئوس اطراف مفصل شانه است. هرچه راس به مفصل نزدیک تر باشد، تعلق بیشتری به آن دارد(رنگ قرمز تری می‌گیرند) \cite {SkinningSource}.\relax }}{19}{figure.caption.21}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3-1}{\ignorespaces نمونه‌ای از یک گراف رویداد\relax }}{26}{figure.caption.22}%
 \contentsline {figure}{\numberline {3-2}{\ignorespaces نمونه‌ای از یک گراف پویانمایی\relax }}{26}{figure.caption.23}%
@@ -34,5 +34,4 @@
 \contentsline {figure}{\numberline {4-5}{\ignorespaces نمایی از ساختار سلسله مراتبی اسکلت شخصیت. در اینجا مفصل \lr {Hips} ،مفصل ریشه است.\relax }}{42}{figure.caption.42}%
 \contentsline {figure}{\numberline {4-6}{\ignorespaces نمایی از ژست شخصیت در یک کلیپ پویانمایی\relax }}{44}{figure.caption.43}%
 \contentsline {figure}{\numberline {4-7}{\ignorespaces ماشین حالت برای حرکت شخصیت\relax }}{45}{figure.caption.44}%
-\addvspace {10\p@ }
 \addvspace {10\p@ }
